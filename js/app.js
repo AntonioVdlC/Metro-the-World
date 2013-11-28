@@ -32,10 +32,10 @@ var app = {
                 'li.country-el': {
                     'country <- data': {
                         'img.country-flag@src+': 'country.flag',
-                        'p.country-name': 'country.name',
+                        'span.country-name': 'country.name',
                         'li.city-el': {
                             'city <- context.country.cities': {
-                                'p.city-name': 'city.name',
+                                'span.city-name': 'city.name',
                                 '.@onclick': 'app.metroView({"city-name": \"#{city.name}\", "country-name": \"#{country.name}\", "metro-map": \"#{city.metro-map}\", "metro-logo": \"#{city.metro-logo}\"});'
                             }
                         }
@@ -61,7 +61,7 @@ var app = {
             var template = $("body"); 
 
             var directives = {
-                'h1.navigation-bar-title': '#{city-name}, #{country-name}',
+                'h1.navigation-bar-map-title': '#{city-name}, #{country-name}',
                 'img.metro-logo@src+': 'metro-logo',
                 'img.metro-map@src+': 'metro-map'
             };

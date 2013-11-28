@@ -1,12 +1,120 @@
+body{
+	margin: 0rem;
+	background-color: #e5e9e8;
+}
+
+.center{
+	text-align: center;
+}
+
+.scrollable{
+	overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    position: absolute;
+    top: 144px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+/*------------------------------
+ * HOME PAGE
+ *------------------------------*/
+
+/* Navigation Bar */
+
+.navigation-bar {
+	height: 4rem;
+	text-align: center;
+	overflow: hidden;
+	border-bottom: 2px solid #bcbfbf;
+}
+
+/* Geolocation */
+
+/* Search Bar*/
+
+/* List */
+
+.list-container{
+	border-top: 1px solid #bcbfbf;
+	border-bottom: 1px solid #eff1f1;
+	background-color: #dfe2e2;
+}
+
+.list{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	border-top: 1px solid #bcbfbf;
+	color: #454545;
+}
+
+.country-el{
+	/*padding: 1.25rem;*/
+	padding-top: 0.75rem;
+	padding-bottom: 0.5rem;
+	padding-left: 1.5rem;
+}
+
 .country-flag{
-	width: 27px;
-	height: 18px;
+	width: 28px;
+	height: 28px;
+	float: left;
+	vertical-align: middle;
+}
+
+.country-name{
+	font-size: 1.5rem;
+	margin-left: 0.5rem;
+}
+
+.city-el{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	padding-left: 2.5rem;
+	font-size: 1.25rem;
+}
+
+.chevron {
+	float: right;
+	margin-right: 1rem;
+	height: 23px;
+}
+
+
+/*------------------------------
+ * METRO PAGE
+ *------------------------------*/
+
+/* Navigation Bar */
+
+.navigation-bar-map{
+	padding: 1rem;
+	text-align: center;
+	overflow: hidden;
+	border-bottom: 2px solid #bcbfbf;
+}
+
+.navigation-bar-map-title{
+	margin: 0rem;
+	font-size: 1.5rem;
+}
+
+.back-button{
+	height: 27px;
+	float: left;
 }
 
 .metro-logo{
 	width: 27px;
+	float: right;
 }
 
-.metro-map{
-	width: 100%;
+/* Metro Map */
+
+#metro-map{
+	padding-top: 1rem;
+	/*width: 100%;*/
+	height: 90%;
 }
