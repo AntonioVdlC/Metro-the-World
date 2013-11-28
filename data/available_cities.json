@@ -1,0 +1,50 @@
+{
+	"count": "7",
+	"data": [
+		{
+			"name": "Algeria",
+			"flag": "alg.svg",
+			"cities": [
+				{
+					"name": "Algiers",
+					"metro": "algiers.svg"
+				}
+			]
+		},
+		{
+			"name": "Argentina",
+			"flag": "arg.svg",
+			"cities": [
+				{"name": "Buenos Aires"}
+			]
+		},
+		{
+			"name": "Armenia",
+			"flag": "arm.svg",
+			"cities": [
+				{"name": "Yerevan"}
+			]
+		},
+		{
+			"name": "Austria",
+			"flag": "aut.svg",
+			"cities": [
+				{"name": "Vienna"}
+			]
+		},
+		{
+			"name": "Brazil",
+			"flag": "bra.svg",
+			"cities": [
+				{"name": "Belo Horizonte"},
+				{"name": "Brasilia"},
+				{"name": "Fortaleza"},
+				{"name": "Porto Alegre"},
+				{"name": "Recife"},
+				{"name": "Rio de Janeiro"},
+				{"name": "São Paulo"},
+				{"name": "Teresina"}
+			]
+		}
+	]
+}
