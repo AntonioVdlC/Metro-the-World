@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="500px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-508 -741 903 1334" height="750px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10"
+              d="M -111.488136,-731.312500 L 114.706535,-592.937500" class="1 2"
+              stroke-opacity="1.0" stroke="#960a3c"/>
+        <path fill="none" stroke-width="10"
+              d="M 114.706535,-592.937500 L 384.743866,-488.437500" class="2 3"
+              stroke-opacity="1.0" stroke="#960a3c"/>
+        <path fill="none" stroke-width="10"
+              d="M 384.743866,-488.437500 L 275.748047,-291.625000" class="3 4"
+              stroke-opacity="1.0" stroke="#960a3c"/>
+        <path fill="none" stroke-width="10"
+              d="M 275.748047,-291.625000 L 247.822800,-133.625000" class="4 5"
+              stroke-opacity="1.0" stroke="#960a3c"/>
+        <path fill="none" stroke-width="10"
+              d="M 247.822800,-133.625000 L 142.945969,246.187500" class="5 6"
+              stroke-opacity="1.0" stroke="#960a3c"/>
+        <path fill="none" stroke-width="10"
+              d="M 142.945969,246.187500 L -28.201021,582.812500" class="6 7"
+              stroke-opacity="1.0" stroke="#960a3c"/>
+        <path fill="none" stroke-width="10"
+              d="M -28.201021,582.812500 L -255.198532,474.562500" class="7 8"
+              stroke-opacity="1.0" stroke="#960a3c"/>
+        <path fill="none" stroke-width="10"
+              d="M -255.198532,474.562500 L -272.442413,354.750000" class="8 9"
+              stroke-opacity="1.0" stroke="#960a3c"/>
+        <path fill="none" stroke-width="10"
+              d="M -255.198532,474.562500 L -498.637085,579.437500" class="8 10"
+              stroke-opacity="1.0" stroke="#960a3c"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-111.48814"
+                class="1" cy="-731.3125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="114.706535"
+                class="2" cy="-592.9375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="384.74387"
+                class="3" cy="-488.4375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="275.74805"
+                class="4" cy="-291.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="247.8228"
+                class="5" cy="-133.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="142.94597"
+                class="6" cy="246.1875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-28.201021"
+                class="7" cy="582.8125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-255.19853"
+                class="8" cy="474.5625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-272.4424"
+                class="9" cy="354.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-498.6371"
+                class="10" cy="579.4375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-111.48814" y="-725.7549" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Barekamutyun     .
+        </text>
+        <text font-size="24" x="114.706535" y="-587.3799" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Marshal Baghramyan     .
+        </text>
+        <text font-size="24" x="384.74387" y="-484.07227" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            Yeritasardakan     .
+        </text>
+        <text font-size="24" x="275.74805" y="-286.06738" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            Hanrapetutyan Hraparak‎     .
+        </text>
+        <text font-size="24" x="247.8228" y="-128.52441" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            Zoravar Andranik‎     .
+        </text>
+        <text font-size="24" x="142.94597" y="250.6289" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            Sasuntsi David     .
+        </text>
+        <text font-size="24" x="-28.201021" y="588.44336" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            .     Gortsaranayin‎
+        </text>
+        <text font-size="24" x="-255.19853" y="480.19336" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            .     Shengavit‎
+        </text>
+        <text font-size="24" x="-272.4424" y="360.38086" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            .     Garegin Nzhdeh Square‎
+        </text>
+        <text font-size="24" x="-498.6371" y="584.6113" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            .     Charbakh‎
+        </text>
+    </g>
+</svg>
