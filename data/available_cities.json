@@ -16,35 +16,79 @@
 			"name": "Argentina",
 			"flag": "arg.svg",
 			"cities": [
-				{"name": "Buenos Aires"}
+				{
+					"name": "Buenos Aires",
+					"metro-map": "buenos-aires.svg",
+					"metro-logo": "buenos-aires.png"
+				}
 			]
 		},
 		{
 			"name": "Armenia",
 			"flag": "arm.svg",
 			"cities": [
-				{"name": "Yerevan"}
+				{
+					"name": "Yerevan",
+					"metro-map": "yerevan.svg",
+					"metro-logo": "yerevan.png"
+				}
 			]
 		},
 		{
 			"name": "Austria",
 			"flag": "aut.svg",
 			"cities": [
-				{"name": "Vienna"}
+				{
+					"name": "Vienna",
+					"metro-map": "vienna.svg",
+					"metro-logo": "vienna.png"
+				}
 			]
 		},
 		{
 			"name": "Brazil",
 			"flag": "bra.svg",
 			"cities": [
-				{"name": "Belo Horizonte"},
-				{"name": "Brasilia"},
-				{"name": "Fortaleza"},
-				{"name": "Porto Alegre"},
-				{"name": "Recife"},
-				{"name": "Rio de Janeiro"},
-				{"name": "São Paulo"},
-				{"name": "Teresina"}
+				{
+					"name": "Belo Horizonte",
+					"metro-map": "belo-horizonte.svg",
+					"metro-logo": "belo-horizonte.png"
+				},
+				{
+					"name": "Brasilia",
+					"metro-map": "brasilia.svg",
+					"metro-logo": "brasilia.png"
+				},
+				{
+					"name": "Fortaleza",
+					"metro-map": "fortaleza.svg",
+					"metro-logo": "fortaleza.png"
+				},
+				{
+					"name": "Porto Alegre",
+					"metro-map": "porto-alegre.svg",
+					"metro-logo": "porto-alegre.png"
+				},
+				{
+					"name": "Recife",
+					"metro-map": "recife.svg",
+					"metro-logo": "recife.png"
+				},
+				{
+					"name": "Rio de Janeiro",
+					"metro-map": "rio-de-janeiro.svg",
+					"metro-logo": "rio-de-janeiro.png"
+				},
+				{
+					"name": "São Paulo",
+					"metro-map": "sao-paulo.svg",
+					"metro-logo": "sao-paulo.png"
+				},
+				{
+					"name": "Teresina",
+					"metro-map": "teresina.svg",
+					"metro-logo": "teresina.png"
+				}
 			]
 		}
 	]

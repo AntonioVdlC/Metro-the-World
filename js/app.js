@@ -3,6 +3,11 @@ var app = {
     initialize: function () {
         var self = this;
 
+        $("body").on("click", ".back-button", function (e) {
+            e.preventDefault();
+            window.history.back();
+        });
+
         //Load JSON Data
         $.getJSON("data/available_cities.json")
         .done(function(json) {
@@ -56,6 +61,9 @@ var app = {
         $("body").empty();
         $("body").load("tpl/metroPage.html", function() {
             console.log( "Load was performed." );
+
+            //Zoomable Metro Map
+            //myScroll = new iScroll('metro-map-container', {zoom:true, zoomMax: 4});
 
             //Render Template
             var template = $("body"); 
