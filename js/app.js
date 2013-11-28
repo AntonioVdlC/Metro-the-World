@@ -1,53 +1,54 @@
 var app = {
+    list: null,
     initialize: function () {
-        var list = null;
+        var self = this;
 
-        this.homeView(list);
-    },
-
-    homeView: function (list) {
         //Load JSON Data
         $.getJSON("data/available_cities.json")
-            .done(
-                function(json) {
-                    console.log(json);
-                    list = json;
+        .done(function(json) {
+            console.log(json);
+            self.list = json;
 
-                    //Load Template
-                    $("body").empty();
-                    $("body").load( "tpl/homePage.html", function() {
-                        console.log( "Load was performed." );
+            self.homeView();
+        })
+        .fail(function( jqxhr, textStatus, error ) {
+            var err = textStatus + ", " + error;
+            console.log( "Request Failed: " + err );
+        });
+    },
 
-                        //Render Template
-                        var template = $(".countries"); 
+    homeView: function () {
+        var self = this;
 
-                        var directives = {
-                            'li.country-el': {
-                                'country <- data': {
-                                    'img.country-flag@src+': 'country.flag',
-                                    'p.country-name': 'country.name',
-                                    'li.city-el': {
-                                        'city <- context.country.cities': {
-                                            'p.city-name': 'city.name',
-                                            '.@onclick': 'app.metroView({"city-name": \"#{city.name}\", "country-name": \"#{country.name}\", "country-flag": \"#{country.flag}\", "metro-map": \"#{city.metro}\"});'
-                                        }
-                                    }
-                                }
+        //Load Template
+        $("body").empty();
+        $("body").load("tpl/homePage.html", function() {
+            console.log( "Load was performed." );
+
+            //Render Template
+            var template = $(".countries"); 
+
+            var directives = {
+                'li.country-el': {
+                    'country <- data': {
+                        'img.country-flag@src+': 'country.flag',
+                        'p.country-name': 'country.name',
+                        'li.city-el': {
+                            'city <- context.country.cities': {
+                                'p.city-name': 'city.name',
+                                '.@onclick': 'app.metroView({"city-name": \"#{city.name}\", "country-name": \"#{country.name}\", "metro-map": \"#{city.metro-map}\", "metro-logo": \"#{city.metro-logo}\"});'
                             }
-                        };
+                        }
+                    }
+                }
+            };
 
-                        template.render(list, directives);
-
-                    });
-                })
-            .fail(
-                function( jqxhr, textStatus, error ) {
-                    var err = textStatus + ", " + error;
-                    console.log( "Request Failed: " + err );
-                });
+            template.render(self.list, directives);
+        });
     },
 
     metroView: function (data) {
+        var self = this;
 
         console.log(data);
 
@@ -61,8 +62,8 @@ var app = {
 
             var directives = {
                 'h1.navigation-bar-title': '#{city-name}, #{country-name}',
-                'img.country-flag@src+': 'country-flag',
-                'img.metro-map-img@src+': 'metro-map'
+                'img.metro-logo@src+': 'metro-logo',
+                'img.metro-map@src+': 'metro-map'
             };
 
             template.render(data, directives);

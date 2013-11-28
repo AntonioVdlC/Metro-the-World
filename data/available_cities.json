@@ -7,7 +7,8 @@
 			"cities": [
 				{
 					"name": "Algiers",
-					"metro": "algiers.svg"
+					"metro-map": "algiers.svg",
+					"metro-logo": "algiers.png"
 				}
 			]
 		},
