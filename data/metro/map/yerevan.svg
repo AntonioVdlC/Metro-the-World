@@ -68,55 +68,55 @@
                 stroke-width="1.0"/>
     </g>
     <g id="node-labels">
-        <text font-size="24" x="-111.48814" y="-725.7549" fill="#000000"
+        <text font-size="24" x="-126.48814" y="-730.7549" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="1">
-            Barekamutyun     .
+            Barekamutyun
         </text>
-        <text font-size="24" x="114.706535" y="-587.3799" fill="#000000"
+        <text font-size="24" x="99.706535" y="-592.3799" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="2">
-            Marshal Baghramyan     .
+            Marshal Baghramyan
         </text>
-        <text font-size="24" x="384.74387" y="-484.07227" fill="#000000"
+        <text font-size="24" x="369.74387" y="-484.07227" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="3">
-            Yeritasardakan     .
+            Yeritasardakan
         </text>
-        <text font-size="24" x="275.74805" y="-286.06738" fill="#000000"
+        <text font-size="24" x="250.74805" y="-291.06738" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="4">
-            Hanrapetutyan Hraparak‎     .
+            Hanrapetutyan Hraparak‎
         </text>
-        <text font-size="24" x="247.8228" y="-128.52441" fill="#000000"
+        <text font-size="24" x="232.8228" y="-133.52441" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="5">
-            Zoravar Andranik‎     .
+            Zoravar Andranik‎
         </text>
-        <text font-size="24" x="142.94597" y="250.6289" fill="#000000"
+        <text font-size="24" x="127.94597" y="245.6289" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="6">
-            Sasuntsi David     .
+            Sasuntsi David
         </text>
-        <text font-size="24" x="-28.201021" y="588.44336" fill="#000000"
+        <text font-size="24" x="-13.201021" y="583.44336" fill="#000000"
               style="text-anchor: start; dominant-baseline: central;"
               font-family="Arial" class="7">
-            .     Gortsaranayin‎
+            Gortsaranayin‎
         </text>
-        <text font-size="24" x="-255.19853" y="480.19336" fill="#000000"
-              style="text-anchor: start; dominant-baseline: central;"
+        <text font-size="24" x="-270.19853" y="460.19336" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="8">
-            .     Shengavit‎
+            Shengavit
         </text>
-        <text font-size="24" x="-272.4424" y="360.38086" fill="#000000"
+        <text font-size="24" x="-257.4424" y="355.38086" fill="#000000"
               style="text-anchor: start; dominant-baseline: central;"
               font-family="Arial" class="9">
-            .     Garegin Nzhdeh Square‎
+            Garegin Nzhdeh Square‎
         </text>
-        <text font-size="24" x="-498.6371" y="584.6113" fill="#000000"
+        <text font-size="24" x="-470.6371" y="579.6113" fill="#000000"
               style="text-anchor: start; dominant-baseline: central;"
               font-family="Arial" class="10">
-            .     Charbakh‎
+            Charbakh‎
         </text>
     </g>
 </svg>
