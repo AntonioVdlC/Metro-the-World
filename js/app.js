@@ -64,6 +64,26 @@ var app = {
             };
 
             template.render(self.list, directives);
+
+            //Search
+            var $countries = $(".country-el");
+            var $cities = $(".city-el");
+
+            $(".search-input").keyup(function() {
+                var val = $.trim(this.value);
+
+                if (val === ""){
+                    $countries.show();
+                    $cities.show();
+                }
+                else {
+                    $countries.hide();
+                    $cities.hide();
+
+                    $countries.has("li:contains(" + val + ")").show();
+                    $cities.has("span:contains(" + val + ")").show();
+                }
+            });
         });
     },
 
