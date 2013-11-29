@@ -1,5 +1,7 @@
 var app = {
     list: null,
+    lang: null,
+
     initialize: function () {
         var self = this;
 
@@ -8,8 +10,12 @@ var app = {
             window.history.back();
         });
 
+        this.langDetection();
+
+        console.log(this.lang);
+
         //Load JSON Data
-        $.getJSON("data/available_cities.json")
+        $.getJSON("lang/" + this.lang + ".json")
         .done(function(json) {
             console.log(json);
             self.list = json;
@@ -20,6 +26,15 @@ var app = {
             var err = textStatus + ", " + error;
             console.log( "Request Failed: " + err );
         });
+    },
+
+    langDetection: function (){
+        if(navigator.language == "es")
+            thi.lang = "es";
+        else if(navigator.language == "fr")
+            this.lang = "fr";
+        else
+            this.lang = "en";
     },
 
     homeView: function () {

@@ -6,7 +6,7 @@
 			"flag": "alg.svg",
 			"cities": [
 				{
-					"name": "Algiers",
+					"name": "Alger",
 					"metro-map": "algiers.svg",
 					"metro-logo": "algiers.png"
 				}
@@ -28,7 +28,7 @@
 			"flag": "arm.svg",
 			"cities": [
 				{
-					"name": "Yerevan",
+					"name": "Ereván",
 					"metro-map": "yerevan.svg",
 					"metro-logo": "yerevan.png"
 				}
@@ -39,14 +39,47 @@
 			"flag": "aut.svg",
 			"cities": [
 				{
-					"name": "Vienna",
+					"name": "Viena",
 					"metro-map": "vienna.svg",
-					"metro-logo": "vienna.png"
+					"metro-logo": "vienna.svg"
 				}
 			]
 		},
 		{
-			"name": "Brazil",
+			"name": "Azerbaiyán",
+			"flag": "aze.svg",
+			"cities": [
+				{
+					"name": "Bakú",
+					"metro-map": "baku.svg",
+					"metro-logo": "baku.png"
+				}
+			]
+		},
+		{
+			"name": "Bélgica",
+			"flag": "bel.svg",
+			"cities": [
+				{
+					"name": "Bruselas",
+					"metro-map": "brussels.svg",
+					"metro-logo": "brussels.svg"
+				}
+			]
+		},
+		{
+			"name": "Bielorrusia",
+			"flag": "blr.svg",
+			"cities": [
+				{
+					"name": "Minsk",
+					"metro-map": "minsk.svg",
+					"metro-logo": "minsk.gif"
+				}
+			]
+		},
+		{
+			"name": "Brasil",
 			"flag": "bra.svg",
 			"cities": [
 				{
@@ -75,19 +108,30 @@
 					"metro-logo": "recife.png"
 				},
 				{
-					"name": "Rio de Janeiro",
+					"name": "Río de Janeiro",
 					"metro-map": "rio-de-janeiro.svg",
 					"metro-logo": "rio-de-janeiro.png"
 				},
 				{
 					"name": "São Paulo",
 					"metro-map": "sao-paulo.svg",
-					"metro-logo": "sao-paulo.png"
+					"metro-logo": "sao-paulo.svg"
 				},
 				{
 					"name": "Teresina",
 					"metro-map": "teresina.svg",
 					"metro-logo": "teresina.png"
+				}
+			]
+		},
+		{
+			"name": "República Dominicana",
+			"flag": "dom.svg",
+			"cities": [
+				{
+					"name": "Santo Domingo",
+					"metro-map": "santo-domingo.svg",
+					"metro-logo": "santo-domingo.jpg"
 				}
 			]
 		}
