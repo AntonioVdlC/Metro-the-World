@@ -5,14 +5,7 @@ var app = {
     initialize: function () {
         var self = this;
 
-        $("body").on("click", ".back-button", function (e) {
-            e.preventDefault();
-            window.history.back();
-        });
-
         this.langDetection();
-
-        console.log(this.lang);
 
         //Load JSON Data
         $.getJSON("lang/" + this.lang + ".json")
@@ -22,9 +15,8 @@ var app = {
 
             self.homeView();
         })
-        .fail(function( jqxhr, textStatus, error ) {
-            var err = textStatus + ", " + error;
-            console.log( "Request Failed: " + err );
+        .fail(function(jqxhr, textStatus, error) {
+            console.log("Request Failed: " + textStatus + ", " + error);
         });
     },
 
@@ -41,6 +33,8 @@ var app = {
             this.lang = "pt";
         else
             this.lang = "en";
+
+        console.log(this.lang);
     },
 
     homeView: function () {
@@ -102,9 +96,6 @@ var app = {
         $("body").empty();
         $("body").load("tpl/metroPage.html", function() {
             console.log( "Load was performed." );
-
-            //Zoomable Metro Map
-            //myScroll = new iScroll('metro-map-container', {zoom:true, zoomMax: 4});
 
             //Render Template
             var template = $("body"); 

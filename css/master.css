@@ -7,26 +7,11 @@ body{
 	background-color: #e5e9e8;
 }
 
-.center{
-	text-align: center;
-}
-
-.scrollable{
-	overflow: auto;
-    -webkit-overflow-scrolling: touch;
-    position: absolute;
-    top: 144px;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-}
-
 /*------------------------------
  * HOME PAGE
  *------------------------------*/
 
 /* Navigation Bar */
-
 .navigation-bar {
 	height: 4rem;
 	text-align: center;
@@ -34,16 +19,26 @@ body{
 	border-bottom: 2px solid #bcbfbf;
 }
 
+.center{
+	text-align: center;
+}
+
 /* Geolocation */
 
 /* Search Bar*/
-
-.search-bar{
-	
+.search-input{
+	width: 100%;
+	height: 3rem;
+	font-size: 1rem;
+	border: 1px solid #a5a8a8;
+	padding: 0 0 0 2.7em;
+	background-image: url("img/search.svg");
+	background-position: 1em center;
+	background-repeat: no-repeat;
+	background-size: 1rem;
 }
 
 /* List */
-
 .list-container{
 	border-top: 1px solid #bcbfbf;
 	border-bottom: 1px solid #eff1f1;
@@ -56,6 +51,16 @@ body{
 	list-style-type: none;
 	border-top: 1px solid #bcbfbf;
 	color: #454545;
+}
+
+.scrollable{
+	overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    position: absolute;
+    top: 114px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
 }
 
 .country-el{
@@ -96,7 +101,6 @@ body{
  *------------------------------*/
 
 /* Navigation Bar */
-
 .navigation-bar-map{
 	padding: 1rem;
 	text-align: center;
@@ -120,7 +124,6 @@ body{
 }
 
 /* Metro Map */
-
 #metro-map-container{
 	padding-top: 1rem;
 	overflow: auto;
