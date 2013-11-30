@@ -29,10 +29,16 @@ var app = {
     },
 
     langDetection: function (){
-        if(navigator.language == "es")
-            thi.lang = "es";
+        if(navigator.language == "ar")
+            thi.lang = "ar";
+        else if(navigator.language == "de")
+            this.lang = "de";
+        else if(navigator.language == "es")
+            this.lang = "es";
         else if(navigator.language == "fr")
             this.lang = "fr";
+        else if(navigator.language == "pt")
+            this.lang = "pt";
         else
             this.lang = "en";
     },
