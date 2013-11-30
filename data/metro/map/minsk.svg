@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1200px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-2333 -1307 4460 2503" height="800px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10"
+              d="M 2117.824951,-1297.500000 L 1725.125854,-1099.875000"
+              class="1 2" stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M 1725.125854,-1099.875000 L 1439.083862,-959.750000"
+              class="2 3" stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M 1439.083862,-959.750000 L 1037.082153,-765.750000"
+              class="3 4" stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M 1037.082153,-765.750000 L 782.264038,-656.125000" class="4 5"
+              stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M 782.264038,-656.125000 L 503.395355,-581.000000" class="5 6"
+              stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M 503.395355,-581.000000 L 277.863892,-410.125000" class="6 7"
+              stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M 277.863892,-410.125000 L 131.256226,-214.625000" class="7 8"
+              stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M 131.256226,-214.625000 L -121.816521,4.625000" class="8 9"
+              stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M -121.816521,4.625000 L -359.181274,262.375000" class="9 10"
+              stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M -359.181274,262.375000 L -534.098206,472.250000"
+              class="10 11" stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M -534.098206,472.250000 L -960.325012,443.250000"
+              class="11 12" stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M -960.325012,443.250000 L -1247.937866,745.875000"
+              class="12 13" stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M -1247.937866,745.875000 L -1445.683594,1117.375000"
+              class="13 14" stroke-opacity="1.0" stroke="#191996"/>
+        <path fill="none" stroke-width="10"
+              d="M -2323.060547,-144.750000 L -1969.142822,-128.375000"
+              class="15 16" stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M -1969.142822,-128.375000 L -1557.053101,-185.875000"
+              class="16 17" stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M -1557.053101,-185.875000 L -1275.863159,-218.875000"
+              class="17 18" stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M -1275.863159,-218.875000 L -824.992188,-128.375000"
+              class="18 19" stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M -824.992188,-128.375000 L -505.020996,-95.375000"
+              class="19 20" stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M -505.020996,-95.375000 L -252.908203,-111.875000"
+              class="20 21" stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M -252.908203,-111.875000 L -129.478516,10.500000"
+              class="21 22" stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M -129.478516,10.500000 L 33.133820,242.000000" class="22 23"
+              stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M 33.133820,242.000000 L 317.238525,357.625000" class="23 24"
+              stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M 317.238525,357.625000 L 814.657349,362.250000" class="24 25"
+              stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M 814.657349,362.250000 L 1077.992676,813.250000" class="25 26"
+              stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M 1077.992676,813.250000 L 1400.930908,977.625000"
+              class="26 27" stroke-opacity="1.0" stroke="#c81919"/>
+        <path fill="none" stroke-width="10"
+              d="M 1400.930908,977.625000 L 1848.712524,1186.250000"
+              class="27 28" stroke-opacity="1.0" stroke="#c81919"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2117.825"
+                class="1" cy="-1297.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1725.1259"
+                class="2" cy="-1099.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1439.0839"
+                class="3" cy="-959.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1037.0822"
+                class="4" cy="-765.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="782.26404"
+                class="5" cy="-656.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="503.39536"
+                class="6" cy="-581.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="277.8639"
+                class="7" cy="-410.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="131.25623"
+                class="8" cy="-214.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-121.81652"
+                class="9" cy="4.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-359.18127"
+                class="10" cy="262.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-534.0982"
+                class="11" cy="472.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-960.325"
+                class="12" cy="443.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1247.9379"
+                class="13" cy="745.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1445.6836"
+                class="14" cy="1117.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2323.0605"
+                class="15" cy="-144.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1969.1428"
+                class="16" cy="-128.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1557.0531"
+                class="17" cy="-185.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1275.8632"
+                class="18" cy="-218.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-824.9922"
+                class="19" cy="-128.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-505.021"
+                class="20" cy="-95.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-252.9082"
+                class="21" cy="-111.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-129.47852"
+                class="22" cy="10.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="33.13382"
+                class="23" cy="242.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="317.23853"
+                class="24" cy="357.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="814.65735"
+                class="25" cy="362.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1077.9927"
+                class="26" cy="813.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1400.9309"
+                class="27" cy="977.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1848.7125"
+                class="28" cy="1186.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="48" x="2117.825" y="-1386.2383" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Уручча
+        </text>
+        <text font-size="48" x="2117.825" y="-1336.2383" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            (Uruchye)
+        </text>
+        <text font-size="48" x="1725.1259" y="-1188.6133" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Барысаўскі тракт
+        </text>
+        <text font-size="48" x="1725.1259" y="-1138.6133" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            (Borisovsky Trakt)
+        </text>
+        <text font-size="48" x="1439.0839" y="-1048.4883" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            Усход
+        </text>
+        <text font-size="48" x="1439.0839" y="-998.4883" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            (Vostok)
+        </text>
+        <text font-size="48" x="1037.0822" y="-854.4883" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            Маскоўская
+        </text>
+        <text font-size="48" x="1037.0822" y="-804.4883" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            (Moskovskaya)
+        </text>
+        <text font-size="48" x="782.26404" y="-744.8633" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            Парк Чалюскінцаў
+        </text>
+        <text font-size="48" x="782.26404" y="-694.8633" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            (Park Chelyuskintsev)
+        </text>
+        <text font-size="48" x="503.39536" y="-569.7383" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            Акадэмія навук
+        </text>
+        <text font-size="48" x="503.39536" y="-519.7383" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            (Akademiya Nauk)
+        </text>
+        <text font-size="48" x="277.8639" y="-398.8047" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            Плошча Якуба Коласа
+        </text>
+        <text font-size="48" x="277.8639" y="-348.8047" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            (Ploshchad Yakuba Kolasa)
+        </text>
+        <text font-size="48" x="131.25623" y="-303.36328" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            Плошча Перамогі
+        </text>
+        <text font-size="48" x="131.25623" y="-253.36328" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            (Ploshchad Pobedy)
+        </text>
+        <text font-size="48" x="-101.81652" y="15.892578" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            Кастрычніцкая
+        </text>
+        <text font-size="48" x="-101.81652" y="65.892578" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            (Oktyabrskaya)
+        </text>
+        <text font-size="48" x="-359.18127" y="173.63672" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            Плошча Леніна
+        </text>
+        <text font-size="48" x="-359.18127" y="223.63672" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            (Ploshchad Lenina)
+        </text>
+        <text font-size="48" x="-534.0982" y="483.51172" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="11">
+            Інстытут культуры
+        </text>
+        <text font-size="48" x="-534.0982" y="533.51172" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="11">
+            (Institut Kultury)
+        </text>
+        <text font-size="48" x="-960.325" y="354.51172" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="12">
+            Грушаўка
+        </text>
+        <text font-size="48" x="-960.325" y="404.51172" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="12">
+            (Grushevka)
+        </text>
+        <text font-size="48" x="-1247.9379" y="757.1367" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="13">
+            Міхалова
+        </text>
+        <text font-size="48" x="-1247.9379" y="807.1367" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="13">
+            (Mikhalovo)
+        </text>
+        <text font-size="48" x="-1445.6836" y="1148.6367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="14">
+            Пятроўшчына
+        </text>
+        <text font-size="48" x="-1445.6836" y="1198.6367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="14">
+            (Petrovshchina)
+        </text>
+        <text font-size="48" x="-2323.0605" y="-233.48828" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="15">
+            Каменная горка
+        </text>
+        <text font-size="48" x="-2323.0605" y="-183.48828" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="15">
+            (Kamennaya Gorka)
+        </text>
+        <text font-size="48" x="-1969.1428" y="-97.11328" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="16">
+            Кунцаўшчына
+        </text>
+        <text font-size="48" x="-1969.1428" y="-47.11328" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="16">
+            (Kuntsevshchina)
+        </text>
+        <text font-size="48" x="-1557.0531" y="-154.61328" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="17">
+            Спартыўная
+        </text>
+        <text font-size="48" x="-1557.0531" y="-104.61328" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="17">
+            (Sportivnaya)
+        </text>
+        <text font-size="48" x="-1275.8632" y="-307.61328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="18">
+            Пушкінская
+        </text>
+        <text font-size="48" x="-1275.8632" y="-257.61328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="18">
+            (Pushkinskaya)
+        </text>
+        <text font-size="48" x="-824.9922" y="-117.11328" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="19">
+            Маладзёжная
+        </text>
+        <text font-size="48" x="-824.9922" y="-67.11328" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="19">
+            (Molodyozhnaya)
+        </text>
+        <text font-size="48" x="-505.021" y="-184.11328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20">
+            Фрунзенская
+        </text>
+        <text font-size="48" x="-505.021" y="-134.11328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20">
+            (Frunzenskaya)
+        </text>
+        <text font-size="48" x="-252.9082" y="-170.61328" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="21">
+            Няміга
+        </text>
+        <text font-size="48" x="-252.9082" y="-120.61328" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="21">
+            (Nemiga)
+        </text>
+        <text font-size="48" x="-159.47852" y="1.761719" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="22">
+            Купалаўская
+        </text>
+        <text font-size="48" x="-159.47852" y="51.761719" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="22">
+            (Kupalovskaya)
+        </text>
+        <text font-size="48" x="33.13382" y="253.26172" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="23">
+            Першамайская
+        </text>
+        <text font-size="48" x="33.13382" y="303.26172" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="23">
+            (Pervomaiskaya)
+        </text>
+        <text font-size="48" x="317.23853" y="368.88672" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="24">
+            Пралетарская
+        </text>
+        <text font-size="48" x="317.23853" y="418.88672" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="24">
+            (Proletarskaya)
+        </text>
+        <text font-size="48" x="814.65735" y="273.51172" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="25">
+            Трактарны завод
+        </text>
+        <text font-size="48" x="814.65735" y="323.51172" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="25">
+            (Traktornyi Zavod)
+        </text>
+        <text font-size="48" x="1077.9927" y="824.5117" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="26">
+            Партызанская
+        </text>
+        <text font-size="48" x="1077.9927" y="874.5117" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="26">
+            (Patizanskaya)
+        </text>
+        <text font-size="48" x="1400.9309" y="988.8867" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="27">
+            Аўтазаводская
+        </text>
+        <text font-size="48" x="1400.9309" y="1038.8867" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="27">
+            (Avtozavodskaya)
+        </text>
+        <text font-size="48" x="1848.7125" y="1217.5117" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="28">
+            Магілёўская
+        </text>
+        <text font-size="48" x="1848.7125" y="1267.5117" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="28">
+            (Mogilevskaya)
+        </text>
+    </g>
+</svg>
