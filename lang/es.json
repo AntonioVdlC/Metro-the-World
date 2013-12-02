@@ -83,31 +83,6 @@
 			"flag": "bra.svg",
 			"cities": [
 				{
-					"name": "Belo Horizonte",
-					"metro-map": "belo-horizonte.svg",
-					"metro-logo": "belo-horizonte.png"
-				},
-				{
-					"name": "Brasilia",
-					"metro-map": "brasilia.svg",
-					"metro-logo": "brasilia.png"
-				},
-				{
-					"name": "Fortaleza",
-					"metro-map": "fortaleza.svg",
-					"metro-logo": "fortaleza.png"
-				},
-				{
-					"name": "Porto Alegre",
-					"metro-map": "porto-alegre.svg",
-					"metro-logo": "porto-alegre.png"
-				},
-				{
-					"name": "Recife",
-					"metro-map": "recife.svg",
-					"metro-logo": "recife.png"
-				},
-				{
 					"name": "Río de Janeiro",
 					"metro-map": "rio-de-janeiro.svg",
 					"metro-logo": "rio-de-janeiro.png"
@@ -116,11 +91,6 @@
 					"name": "São Paulo",
 					"metro-map": "sao-paulo.svg",
 					"metro-logo": "sao-paulo.svg"
-				},
-				{
-					"name": "Teresina",
-					"metro-map": "teresina.svg",
-					"metro-logo": "teresina.png"
 				}
 			]
 		},

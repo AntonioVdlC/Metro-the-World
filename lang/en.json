@@ -1,5 +1,6 @@
 {
-	"count": "7",
+	"count": "51",
+	"search": "Search...",
 	"data": [
 		{
 			"name": "Algeria",
@@ -83,31 +84,6 @@
 			"flag": "bra.svg",
 			"cities": [
 				{
-					"name": "Belo Horizonte",
-					"metro-map": "belo-horizonte.svg",
-					"metro-logo": "belo-horizonte.png"
-				},
-				{
-					"name": "Brasília",
-					"metro-map": "brasilia.svg",
-					"metro-logo": "brasilia.png"
-				},
-				{
-					"name": "Fortaleza",
-					"metro-map": "fortaleza.svg",
-					"metro-logo": "fortaleza.png"
-				},
-				{
-					"name": "Porto Alegre",
-					"metro-map": "porto-alegre.svg",
-					"metro-logo": "porto-alegre.png"
-				},
-				{
-					"name": "Recife",
-					"metro-map": "recife.svg",
-					"metro-logo": "recife.png"
-				},
-				{
 					"name": "Rio de Janeiro",
 					"metro-map": "rio-de-janeiro.svg",
 					"metro-logo": "rio-de-janeiro.png"
@@ -116,11 +92,66 @@
 					"name": "São Paulo",
 					"metro-map": "sao-paulo.svg",
 					"metro-logo": "sao-paulo.svg"
+				}
+			]
+		},
+		{
+			"name": "Canada",
+			"flag": "can.svg",
+			"cities": [
+				{
+					"name": "Montreal",
+					"metro-map": "montreal.svg",
+					"metro-logo": "montreal.png"
+				}
+			]
+		},
+		{
+			"name": "Chile",
+			"flag": "chl.svg",
+			"cities": [
+				{
+					"name": "Santiago",
+					"metro-map": "santiago.svg",
+					"metro-logo": "santiago.png"
+				}
+			]
+		},
+		{
+			"name": "China",
+			"flag": "chn.svg",
+			"cities": [
+				{
+					"name": "Beijing",
+					"metro-map": "beijing.svg",
+					"metro-logo": "beijing.png"
 				},
 				{
-					"name": "Teresina",
-					"metro-map": "teresina.svg",
-					"metro-logo": "teresina.png"
+					"name": "Shanghai",
+					"metro-map": "shanghai.svg",
+					"metro-logo": "shanghai.png"
+				}
+			]
+		},
+		{
+			"name": "Colombia",
+			"flag": "col.svg",
+			"cities": [
+				{
+					"name": "Medellín",
+					"metro-map": "medellin.svg",
+					"metro-logo": "medellin.svg"
+				}
+			]
+		},
+		{
+			"name": "Czech Republic",
+			"flag": "cze.svg",
+			"cities": [
+				{
+					"name": "Prague",
+					"metro-map": "prague.svg",
+					"metro-logo": "prague.png"
 				}
 			]
 		},
@@ -132,6 +163,344 @@
 					"name": "Santo Domingo",
 					"metro-map": "santo-domingo.svg",
 					"metro-logo": "santo-domingo.jpg"
+				}
+			]
+		},
+		{
+			"name": "Finland",
+			"flag": "fin.svg",
+			"cities": [
+				{
+					"name": "Helsinki",
+					"metro-map": "helsinki.svg",
+					"metro-logo": "helsinki.png"
+				}
+			]
+		},
+		{
+			"name": "France",
+			"flag": "fra.svg",
+			"cities": [
+				{
+					"name": "Paris",
+					"metro-map": "paris.svg",
+					"metro-logo": "paris.png"
+				}
+			]
+		},
+		{
+			"name": "Germany",
+			"flag": "deu.svg",
+			"cities": [
+				{
+					"name": "Berlin",
+					"metro-map": "berlin.svg",
+					"metro-logo": "berlin.png"
+				},
+				{
+					"name": "Munich",
+					"metro-map": "munich.svg",
+					"metro-logo": "munich.png"
+				}
+			]
+		},
+		{
+			"name": "Hong Kong",
+			"flag": "hkg.svg",
+			"cities": [
+				{
+					"name": "Hong Kong",
+					"metro-map": "hong-kong.svg",
+					"metro-logo": "hong-kong.png"
+				}
+			]
+		},
+		{
+			"name": "Hungary",
+			"flag": "hun.svg",
+			"cities": [
+				{
+					"name": "Budapest",
+					"metro-map": "budapest.svg",
+					"metro-logo": "budapest.png"
+				}
+			]
+		},
+		{
+			"name": "India",
+			"flag": "ind.svg",
+			"cities": [
+				{
+					"name": "Delhi",
+					"metro-map": "delhi.svg",
+					"metro-logo": "delhi.png"
+				}
+			]
+		},
+		{
+			"name": "Iran",
+			"flag": "irn.svg",
+			"cities": [
+				{
+					"name": "Tehran",
+					"metro-map": "tehran.svg",
+					"metro-logo": "tehran.png"
+				}
+			]
+		},
+		{
+			"name": "Italy",
+			"flag": "ita.svg",
+			"cities": [
+				{
+					"name": "Milan",
+					"metro-map": "milan.svg",
+					"metro-logo": "milan.png"
+				},
+				{
+					"name": "Rome",
+					"metro-map": "rome.svg",
+					"metro-logo": "rome.png"
+				}
+			]
+		},
+		{
+			"name": "Japan",
+			"flag": "jpn.svg",
+			"cities": [
+				{
+					"name": "Osaka",
+					"metro-map": "osaka.svg",
+					"metro-logo": "osaka.png"
+				},
+				{
+					"name": "Tokyo",
+					"metro-map": "tokyo.svg",
+					"metro-logo": "tokyo.png"
+				}
+			]
+		},
+		{
+			"name": "Malaysia",
+			"flag": "mys.svg",
+			"cities": [
+				{
+					"name": "Kuala Lumpur",
+					"metro-map": "kuala-lumpur.svg",
+					"metro-logo": "kuala-lumpur.png"
+				}
+			]
+		},
+		{
+			"name": "Mexico",
+			"flag": "mex.svg",
+			"cities": [
+				{
+					"name": "Mexico City",
+					"metro-map": "mexico-city.svg",
+					"metro-logo": "mexico-city.png"
+				}
+			]
+		},
+		{
+			"name": "Netherlands",
+			"flag": "nld.svg",
+			"cities": [
+				{
+					"name": "Amsterdam",
+					"metro-map": "amsterdam.svg",
+					"metro-logo": "amsterdam.png"
+				}
+			]
+		},
+		{
+			"name": "Norway",
+			"flag": "nor.svg",
+			"cities": [
+				{
+					"name": "Oslo",
+					"metro-map": "oslo.svg",
+					"metro-logo": "oslo.png"
+				}
+			]
+		},
+		{
+			"name": "Portugal",
+			"flag": "prt.svg",
+			"cities": [
+				{
+					"name": "Lisbon",
+					"metro-map": "lisbon.svg",
+					"metro-logo": "lisbon.png"
+				}
+			]
+		},
+		{
+			"name": "Russia",
+			"flag": "rus.svg",
+			"cities": [
+				{
+					"name": "Moscow",
+					"metro-map": "moscow.svg",
+					"metro-logo": "moscow.png"
+				},
+				{
+					"name": "Saint Petersburg",
+					"metro-map": "saint-petersburg.svg",
+					"metro-logo": "saint-petersburg.png"
+				}
+			]
+		},
+		{
+			"name": "Saudi Arabia",
+			"flag": "sau.svg",
+			"cities": [
+				{
+					"name": "Mecca",
+					"metro-map": "mecca.svg",
+					"metro-logo": "mecca.jpg"
+				}
+			]
+		},
+		{
+			"name": "Singapore",
+			"flag": "sgp.svg",
+			"cities": [
+				{
+					"name": "Singapore",
+					"metro-map": "singapore.svg",
+					"metro-logo": "singapore.png"
+				}
+			]
+		},
+		{
+			"name": "South Korea",
+			"flag": "kor.svg",
+			"cities": [
+				{
+					"name": "Seoul",
+					"metro-map": "seoul.svg",
+					"metro-logo": "seoul.png"
+				}
+			]
+		},
+		{
+			"name": "Spain",
+			"flag": "esp.svg",
+			"cities": [
+				{
+					"name": "Barcelona",
+					"metro-map": "barcelona.svg",
+					"metro-logo": "barcelona.png"
+				},
+				{
+					"name": "Madrid",
+					"metro-map": "madrid.svg",
+					"metro-logo": "madrid.png"
+				}
+			]
+		},
+		{
+			"name": "Sweden",
+			"flag": "swe.svg",
+			"cities": [
+				{
+					"name": "Stockholm",
+					"metro-map": "stockholm.svg",
+					"metro-logo": "stockholm.png"
+				}
+			]
+		},
+		{
+			"name": "Switzerland",
+			"flag": "che.svg",
+			"cities": [
+				{
+					"name": "Lausanne",
+					"metro-map": "lausanne.svg",
+					"metro-logo": "lausanne.svg"
+				}
+			]
+		},
+		{
+			"name": "Taiwan",
+			"flag": "twn.svg",
+			"cities": [
+				{
+					"name": "Taipei",
+					"metro-map": "taipei.svg",
+					"metro-logo": "taipei.png"
+				}
+			]
+		},
+		{
+			"name": "Thailand",
+			"flag": "tha.svg",
+			"cities": [
+				{
+					"name": "Bangkok",
+					"metro-map": "bangkok.svg",
+					"metro-logo": "bangkok.png"
+				}
+			]
+		},
+		{
+			"name": "Turkey",
+			"flag": "tur.svg",
+			"cities": [
+				{
+					"name": "Istanbul",
+					"metro-map": "istanbul.svg",
+					"metro-logo": "istanbul.png"
+				}
+			]
+		},
+		{
+			"name": "Ukraine",
+			"flag": "ukr.svg",
+			"cities": [
+				{
+					"name": "Kiev",
+					"metro-map": "kiev.svg",
+					"metro-logo": "kiev.png"
+				}
+			]
+		},
+		{
+			"name": "United Arab Emirates",
+			"flag": "are.svg",
+			"cities": [
+				{
+					"name": "Dubai",
+					"metro-map": "dubai.svg",
+					"metro-logo": "dubai.png"
+				}
+			]
+		},
+		{
+			"name": "United Kingdom",
+			"flag": "gbr.svg",
+			"cities": [
+				{
+					"name": "London",
+					"metro-map": "london.svg",
+					"metro-logo": "london.png"
+				}
+			]
+		},
+		{
+			"name": "United States",
+			"flag": "usa.svg",
+			"cities": [
+				{
+					"name": "New York",
+					"metro-map": "new-york.svg",
+					"metro-logo": "new-york.png"
+				},
+				{
+					"name": "San Francisco",
+					"metro-map": "san-francisco.svg",
+					"metro-logo": "san-francisco.png"
 				}
 			]
 		}

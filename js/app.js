@@ -46,9 +46,8 @@ var app = {
             console.log( "Load was performed." );
 
             //Render Template
-            var template = $(".countries"); 
-
             var directives = {
+                'input.search-input@placeholder': 'search', 
                 'li.country-el': {
                     'country <- data': {
                         'img.country-flag@src+': 'country.flag',
@@ -63,7 +62,7 @@ var app = {
                 }
             };
 
-            template.render(self.list, directives);
+            $("body").render(self.list, directives);
 
             //Search
             var $countries = $(".country-el");
@@ -98,15 +97,13 @@ var app = {
             console.log( "Load was performed." );
 
             //Render Template
-            var template = $("body"); 
-
             var directives = {
                 'h1.navigation-bar-map-title': '#{city-name}, #{country-name}',
                 'img.metro-logo@src+': 'metro-logo',
                 'img.metro-map@src+': 'metro-map'
             };
 
-            template.render(data, directives);
+            $("body").render(data, directives);
         });
     }
 };
