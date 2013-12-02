@@ -16,7 +16,7 @@ var app = {
             self.homeView();
         })
         .fail(function(jqxhr, textStatus, error) {
-            console.log("Request Failed: " + textStatus + ", " + error);
+            //console.log("Request Failed: " + textStatus + ", " + error);
         });
     },
 
@@ -34,7 +34,7 @@ var app = {
         else
             this.lang = "en";
 
-        console.log(this.lang);
+        //console.log(this.lang);
     },
 
     homeView: function () {
@@ -43,7 +43,6 @@ var app = {
         //Load Template
         $("body").empty();
         $("body").load("tpl/homePage.html", function() {
-            console.log( "Load was performed." );
 
             //Render Template
             var directives = {
@@ -89,12 +88,11 @@ var app = {
     metroView: function (data) {
         var self = this;
 
-        console.log(data);
+        //console.log(data);
 
         //Load Template
         $("body").empty();
         $("body").load("tpl/metroPage.html", function() {
-            console.log( "Load was performed." );
 
             //Render Template
             var directives = {

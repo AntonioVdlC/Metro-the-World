@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="900px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-840 -482 1710 941" height="600px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10"
+              d="M 312.948120,116.625000 L 198.402161,87.375000" class="1 2"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M 312.948120,116.625000 L 357.942719,53.312500" class="1 21"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 198.402161,87.375000 L 23.886692,78.437500" class="2 3"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M 23.886692,78.437500 L -55.508335,43.562500" class="3 4"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -55.508335,43.562500 L -150.628784,22.250000" class="4 5"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -150.628784,22.250000 L -379.825409,39.437500" class="5 6"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -379.825409,39.437500 L -473.462311,20.000000" class="6 7"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -473.462311,20.000000 L -570.450256,-1.750000" class="7 8"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -570.450256,-1.750000 L -675.693604,68.687500" class="8 9"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -675.693604,68.687500 L -797.779419,79.937500" class="9 10"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -797.779419,79.937500 L -830.731201,15.875000" class="10 11"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -830.731201,15.875000 L -792.159424,-70.625000" class="11 12"
+              stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -792.159424,-70.625000 L -725.121338,-196.812500"
+              class="12 13" stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -725.121338,-196.812500 L -667.071716,-322.312500"
+              class="13 14" stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M -667.071716,-322.312500 L -581.306213,-313.312500"
+              class="14 15" stroke-opacity="1.0" stroke="#196419"/>
+        <path fill="none" stroke-width="10"
+              d="M 253.467300,448.812500 L 270.693726,379.125000" class="16 17"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 270.693726,379.125000 L 278.931671,313.250000" class="17 18"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 278.931671,313.250000 L 298.776062,245.812500" class="18 19"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 298.776062,245.812500 L 305.513031,184.375000" class="19 20"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 305.513031,184.375000 L 312.948120,116.625000" class="20 1"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 357.942719,53.312500 L 431.351257,97.875000" class="21 22"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 431.351257,97.875000 L 493.903870,101.625000" class="22 23"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 493.903870,101.625000 L 519.368225,-41.437500" class="23 24"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 519.368225,-41.437500 L 616.356140,-205.875000" class="24 25"
+              stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 616.356140,-205.875000 L 685.645752,-355.625000"
+              class="25 26" stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 685.645752,-355.625000 L 792.756592,-414.437500"
+              class="26 27" stroke-opacity="1.0" stroke="#191964"/>
+        <path fill="none" stroke-width="10"
+              d="M 792.756592,-414.437500 L 859.794678,-472.875000"
+              class="27 28" stroke-opacity="1.0" stroke="#191964"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="312.94812"
+                class="1" cy="116.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="198.40216"
+                class="2" cy="87.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="23.886692"
+                class="3" cy="78.4375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-55.508335"
+                class="4" cy="43.5625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-150.62878"
+                class="5" cy="22.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-379.8254"
+                class="6" cy="39.4375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-473.4623"
+                class="7" cy="20.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-570.45026"
+                class="8" cy="-1.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-675.6936"
+                class="9" cy="68.6875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-797.7794"
+                class="10" cy="79.9375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-830.7312"
+                class="11" cy="15.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-792.1594"
+                class="12" cy="-70.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-725.12134"
+                class="13" cy="-196.8125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-667.0717"
+                class="14" cy="-322.3125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-581.3062"
+                class="15" cy="-313.3125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="253.4673"
+                class="16" cy="448.8125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="270.69373"
+                class="17" cy="379.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="278.93167"
+                class="18" cy="313.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="298.77606"
+                class="19" cy="245.8125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="305.51303"
+                class="20" cy="184.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="357.94272"
+                class="21" cy="53.3125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="431.35126"
+                class="22" cy="97.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="493.90387"
+                class="23" cy="101.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="519.3682"
+                class="24" cy="-41.4375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="616.35614"
+                class="25" cy="-205.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="685.64575"
+                class="26" cy="-355.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="792.7566"
+                class="27" cy="-414.4375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="859.7947"
+                class="28" cy="-472.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="320.94812" y="140.990234" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Lausanne-Flon
+        </text>
+        <text font-size="24" x="198.40216" y="112.93262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Vigie
+        </text>
+        <text font-size="24" x="23.886692" y="103.99512" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            Montelly
+        </text>
+        <text font-size="24" x="-55.508335" y="17.927734" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            Provence
+        </text>
+        <text font-size="24" x="-150.62878" y="-3.807617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            Malley
+        </text>
+        <text font-size="24" x="-379.8254" y="63.802734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            Bourdonnette
+        </text>
+        <text font-size="24" x="-473.4623" y="-5.557617" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            UNIL-Dorigny
+        </text>
+        <text font-size="24" x="-570.45026" y="-28.6152344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            Mouline
+        </text>
+        <text font-size="24" x="-675.6936" y="94.31836" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            UNIL-Sorge
+        </text>
+        <text font-size="24" x="-797.7794" y="104.23242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            EPFL
+        </text>
+        <text font-size="24" x="-815.7312" y="21.432617" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="11">
+            Bassenges
+        </text>
+        <text font-size="24" x="-777.1594" y="-66.18359" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="12">
+            Cerisaie
+        </text>
+        <text font-size="24" x="-710.12134" y="-191.18164" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="13">
+            Crochy
+        </text>
+        <text font-size="24" x="-682.0717" y="-321.8252" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="14">
+            Epenex
+        </text>
+        <text font-size="24" x="-566.3062" y="-308.8711" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="15">
+            Renens Gare CFF
+        </text>
+        <text font-size="24" x="268.4673" y="454.4463" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="16">
+            Ouchy
+        </text>
+        <text font-size="24" x="285.69373" y="383.49316" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="17">
+            Jordils
+        </text>
+        <text font-size="24" x="293.93167" y="317.63867" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="18">
+            Délices
+        </text>
+        <text font-size="24" x="313.77606" y="251.44336" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="19">
+            Grancy
+        </text>
+        <text font-size="24" x="320.51303" y="188.8164" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="20">
+            Lausanne Gare CFF
+        </text>
+        <text font-size="24" x="357.94272" y="28.893555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="21">
+            Riponne - Maurice Béjart
+        </text>
+        <text font-size="24" x="431.35126" y="120.26367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="22">
+            Bessières
+        </text>
+        <text font-size="24" x="508.90387" y="106.069336" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="23">
+            Ours
+        </text>
+        <text font-size="24" x="504.3682" y="-46.996094" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="24">
+            CHUV
+        </text>
+        <text font-size="24" x="601.35614" y="-211.4336" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="25">
+            La Sallaz
+        </text>
+        <text font-size="24" x="670.64575" y="-361.25977" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="26">
+            Fourmi
+        </text>
+        <text font-size="24" x="777.7566" y="-420.07227" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="27">
+            Vennes
+        </text>
+        <text font-size="24" x="845.7947" y="-478.4336" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="28">
+            Les Croisettes
+        </text>
+    </g>
+</svg>
