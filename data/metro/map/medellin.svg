@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="650px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-841 -1495 2130 3262" height="800px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10"
+              d="M 583.810608,-1485.242188 L 426.504059,-1357.906250"
+              class="1 2" stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 426.504059,-1357.906250 L 391.684723,-1096.125000"
+              class="2 3" stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 391.684723,-1096.125000 L 332.500610,-815.242188" class="3 4"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 332.500610,-815.242188 L 225.023254,-654.570313" class="4 5"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 332.500610,-815.242188 L 451.444824,-755.890625" class="4 31"
+              stroke-opacity="1.0" stroke="#c8fa32"/>
+        <path fill="none" stroke-width="10"
+              d="M 225.023254,-654.570313 L 145.628220,-438.492188" class="5 6"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 145.628220,-438.492188 L 205.929352,-286.070313" class="6 7"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 205.929352,-286.070313 L 248.620102,-187.195313" class="7 8"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 248.620102,-187.195313 L 202.927383,-67.351563" class="8 9"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 202.927383,-67.351563 L 166.973602,43.882813" class="9 10"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 166.973602,43.882813 L 143.760712,104.539063" class="10 11"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 143.760712,104.539063 L 110.424934,178.703125" class="11 12"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 143.760712,104.539063 L 44.172237,71.953125" class="11 22"
+              stroke-opacity="1.0" stroke="#fa7d19"/>
+        <path fill="none" stroke-width="10"
+              d="M 110.424934,178.703125 L 79.340622,261.835938" class="12 13"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 79.340622,261.835938 L 41.885857,414.273438" class="13 14"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 41.885857,414.273438 L -12.044818,725.476563" class="14 15"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -12.044818,725.476563 L -77.197960,1053.546875" class="15 16"
+              stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -77.197960,1053.546875 L -139.366592,1174.890625"
+              class="16 17" stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -139.366592,1174.890625 L -335.244904,1395.843750"
+              class="17 18" stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -335.244904,1395.843750 L -504.489471,1585.156250"
+              class="18 19" stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -504.489471,1585.156250 L -685.026306,1679.726563"
+              class="19 20" stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -685.026306,1679.726563 L -831.459473,1757.242188"
+              class="20 21" stroke-opacity="1.0" stroke="#1919c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 44.172237,71.953125 L -103.046288,1.546875" class="22 23"
+              stroke-opacity="1.0" stroke="#fa7d19"/>
+        <path fill="none" stroke-width="10"
+              d="M -103.046288,1.546875 L -194.414276,-2.945313" class="23 24"
+              stroke-opacity="1.0" stroke="#fa7d19"/>
+        <path fill="none" stroke-width="10"
+              d="M -194.414276,-2.945313 L -350.586334,-97.320313" class="24 25"
+              stroke-opacity="1.0" stroke="#fa7d19"/>
+        <path fill="none" stroke-width="10"
+              d="M -350.586334,-97.320313 L -454.328705,-85.695313"
+              class="25 26" stroke-opacity="1.0" stroke="#fa7d19"/>
+        <path fill="none" stroke-width="10"
+              d="M -454.328705,-85.695313 L -634.848145,-69.226563"
+              class="26 27" stroke-opacity="1.0" stroke="#fa7d19"/>
+        <path fill="none" stroke-width="10"
+              d="M -634.848145,-69.226563 L -632.963135,-256.484375"
+              class="27 28" stroke-opacity="1.0" stroke="#fafa19"/>
+        <path fill="none" stroke-width="10"
+              d="M -632.963135,-256.484375 L -634.097595,-378.195313"
+              class="28 29" stroke-opacity="1.0" stroke="#fafa19"/>
+        <path fill="none" stroke-width="10"
+              d="M -634.097595,-378.195313 L -640.468079,-489.414063"
+              class="29 30" stroke-opacity="1.0" stroke="#fafa19"/>
+        <path fill="none" stroke-width="10"
+              d="M 451.444824,-755.890625 L 516.231445,-735.101563"
+              class="31 32" stroke-opacity="1.0" stroke="#c8fa32"/>
+        <path fill="none" stroke-width="10"
+              d="M 516.231445,-735.101563 L 633.831726,-696.343750"
+              class="32 33" stroke-opacity="1.0" stroke="#c8fa32"/>
+        <path fill="none" stroke-width="10"
+              d="M 633.831726,-696.343750 L 1278.887939,-493.906250"
+              class="33 34" stroke-opacity="1.0" stroke="#643200"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="583.8106"
+                class="1" cy="-1485.2422" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="426.50406"
+                class="2" cy="-1357.9062" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="391.68472"
+                class="3" cy="-1096.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="332.5006"
+                class="4" cy="-815.2422" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="225.02325"
+                class="5" cy="-654.5703" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="145.62822"
+                class="6" cy="-438.4922" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="205.92935"
+                class="7" cy="-286.0703" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="248.6201"
+                class="8" cy="-187.19531" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="202.92738"
+                class="9" cy="-67.35156" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="166.9736"
+                class="10" cy="43.882812" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="143.76071"
+                class="11" cy="104.53906" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="110.424934"
+                class="12" cy="178.70312" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="79.34062"
+                class="13" cy="261.83594" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="41.885857"
+                class="14" cy="414.27344" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-12.044818"
+                class="15" cy="725.47656" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-77.19796"
+                class="16" cy="1053.5469" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-139.3666"
+                class="17" cy="1174.8906" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-335.2449"
+                class="18" cy="1395.8438" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-504.48947"
+                class="19" cy="1585.1562" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-685.0263"
+                class="20" cy="1679.7266" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-831.4595"
+                class="21" cy="1757.2422" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="44.172237"
+                class="22" cy="71.953125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-103.04629"
+                class="23" cy="1.546875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-194.41428"
+                class="24" cy="-2.9453125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-350.58633"
+                class="25" cy="-97.32031" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-454.3287"
+                class="26" cy="-85.69531" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-634.84814"
+                class="27" cy="-69.22656" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-632.96313"
+                class="28" cy="-256.48438" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-634.0976"
+                class="29" cy="-378.1953" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-640.4681"
+                class="30" cy="-489.41406" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="451.44482"
+                class="31" cy="-755.8906" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="516.23145"
+                class="32" cy="-735.10156" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="633.8317"
+                class="33" cy="-696.34375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1278.888"
+                class="34" cy="-493.90625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="48" x="593.8106" y="-1474.2676" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Niquia
+        </text>
+        <text font-size="48" x="411.50406" y="-1349.1758" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Bello
+        </text>
+        <text font-size="48" x="376.68472" y="-1087.3945" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            Madera
+        </text>
+        <text font-size="48" x="317.5006" y="-806.5117" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            Acevedo
+        </text>
+        <text font-size="48" x="210.02325" y="-645.83984" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            Tricentenario
+        </text>
+        <text font-size="48" x="130.62822" y="-429.60938" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            Caribe
+        </text>
+        <text font-size="48" x="215.92935" y="-277.33398" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            Universidad
+        </text>
+        <text font-size="48" x="258.6201" y="-176.2207" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            Hospital
+        </text>
+        <text font-size="48" x="212.92738" y="-58.621094" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            Prado
+        </text>
+        <text font-size="48" x="176.9736" y="54.904297" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            Parque Berrío
+        </text>
+        <text font-size="48" x="153.76071" y="113.421875" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="11">
+            San Antonio
+        </text>
+        <text font-size="48" x="120.424934" y="189.81836" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="12">
+            Alpujarra
+        </text>
+        <text font-size="48" x="89.34062" y="272.81055" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="13">
+            Exposiciones
+        </text>
+        <text font-size="48" x="51.885857" y="423.0039" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="14">
+            Industriales
+        </text>
+        <text font-size="48" x="-2.044818" y="734.20703" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="15">
+            Poblado
+        </text>
+        <text font-size="48" x="-67.19796" y="1064.6621" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="16">
+            Aguacatala
+        </text>
+        <text font-size="48" x="-129.3666" y="1186.0527" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="17">
+            Ayurá
+        </text>
+        <text font-size="48" x="-335.2449" y="1406.959" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="18">
+            Envigado
+        </text>
+        <text font-size="48" x="-494.48947" y="1596.3242" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="19">
+            Itagüí
+        </text>
+        <text font-size="48" x="-685.0263" y="1638.6094" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="20">
+            Sabaneta
+        </text>
+        <text font-size="48" x="-831.4595" y="1715.9727" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="21">
+            La Estrella
+        </text>
+        <text font-size="48" x="44.172237" y="95.83594" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="22">
+            Cisneros
+        </text>
+        <text font-size="48" x="-143.04629" y="-30.4296875" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="23">
+            Suramericana
+        </text>
+        <text font-size="48" x="-194.41428" y="15.7851562" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="24">
+            Estadio
+        </text>
+        <text font-size="48" x="-350.58633" y="-115.58984" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="25">
+            Floresta
+        </text>
+        <text font-size="48" x="-454.3287" y="-60.8125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="26">
+            Santa
+        </text>
+        <text font-size="48" x="-454.3287" y="-20.8125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="26">
+            Lucía
+        </text>
+        <text font-size="48" x="-634.84814" y="-45.34375" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="27">
+            San Javier
+        </text>
+        <text font-size="48" x="-647.96313" y="-247.74805" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="28">
+            Juan XXIII
+        </text>
+        <text font-size="48" x="-649.0976" y="-367.08008" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="29">
+            Vallejuelos
+        </text>
+        <text font-size="48" x="-655.4681" y="-480.6836" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="30">
+            La Aurora
+        </text>
+        <text font-size="48" x="451.44482" y="-800.1133" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="31">
+            Andalucía
+        </text>
+        <text font-size="48" x="526.23145" y="-757.12695" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="32">
+            Popular
+        </text>
+        <text font-size="48" x="633.8317" y="-720.08203" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="33">
+            Santo Domingo Savio
+        </text>
+        <text font-size="48" x="1278.888" y="-485.26953" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="34">
+            Arví
+        </text>
+    </g>
+</svg>
