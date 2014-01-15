@@ -67,10 +67,10 @@
               font-family="Arial" class="1">
             الجمرات
         </text>
-        <text font-size="36" x="-869.09064" y="-702.05225" fill="#000000"
+        <text font-size="36" x="-845.09064" y="-702.05225" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="1">
-            Jaramat
+            (Jaramat)
         </text>
         <text font-size="36" x="-522.27625" y="-472.90137" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
@@ -80,7 +80,7 @@
         <text font-size="36" x="-522.27625" y="-432.90137" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="2">
-            Mina 2
+            (Mina 2)
         </text>
         <text font-size="36" x="-408.79492" y="-388.24512" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
@@ -90,7 +90,7 @@
         <text font-size="36" x="-408.79492" y="-348.24512" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="3">
-            Mina 1
+            (Mina 1)
         </text>
         <text font-size="36" x="-360.10025" y="-229.3335" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
@@ -100,7 +100,7 @@
         <text font-size="36" x="-360.10025" y="-189.3335" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="4">
-            Muzdalifah 3
+            (Muzdalifah 3)
         </text>
         <text font-size="36" x="-249.62091" y="-87.395996" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
@@ -110,7 +110,7 @@
         <text font-size="36" x="-249.62091" y="-47.395996" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="5">
-            Muzdalifah 2
+            (Muzdalifah 2)
         </text>
         <text font-size="36" x="-58.62953" y="6.145996" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
@@ -120,7 +120,7 @@
         <text font-size="36" x="-58.62953" y="46.145996" fill="#000000"
               style="text-anchor: end; dominant-baseline: central;"
               font-family="Arial" class="6">
-            Muzdalifah 1
+            (Muzdalifah 1)
         </text>
         <text font-size="36" x="694.131" y="519.4795" fill="#000000"
               style="text-anchor: start; dominant-baseline: central;"
@@ -130,7 +130,7 @@
         <text font-size="36" x="694.131" y="559.4795" fill="#000000"
               style="text-anchor: start; dominant-baseline: central;"
               font-family="Arial" class="7">
-            Arafat 3
+            (Arafat 3)
         </text>
         <text font-size="36" x="839.8136" y="613.8545" fill="#000000"
               style="text-anchor: start; dominant-baseline: central;"
@@ -140,7 +140,7 @@
         <text font-size="36" x="839.8136" y="653.8545" fill="#000000"
               style="text-anchor: start; dominant-baseline: central;"
               font-family="Arial" class="8">
-            Arafat 2
+            (Arafat 2)
         </text>
         <text font-size="36" x="934.5675" y="698.88574" fill="#000000"
               style="text-anchor: start; dominant-baseline: central;"
@@ -150,7 +150,7 @@
         <text font-size="36" x="934.5675" y="738.88574" fill="#000000"
               style="text-anchor: start; dominant-baseline: central;"
               font-family="Arial" class="9">
-            Arafat 1
+            (Arafat 1)
         </text>
     </g>
 </svg>
