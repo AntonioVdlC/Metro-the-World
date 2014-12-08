@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="500px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-374 -500 868 1036" height="600px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10"
+              d="M -286.524872,-490.687500 L -364.095062,-369.625000"
+              class="1 2" stroke-opacity="1.0" stroke="#00b8f5"/>
+        <path fill="none" stroke-width="10"
+              d="M -364.095062,-369.625000 L -335.006256,-242.562500"
+              class="2 3" stroke-opacity="1.0" stroke="#00b8f5"/>
+        <path fill="none" stroke-width="10"
+              d="M -335.006256,-242.562500 L -276.828613,-157.812500"
+              class="3 4" stroke-opacity="1.0" stroke="#00b8f5"/>
+        <path fill="none" stroke-width="10"
+              d="M -276.828613,-157.812500 L -141.080780,-79.125000" class="4 5"
+              stroke-opacity="1.0" stroke="#00b8f5"/>
+        <path fill="none" stroke-width="10"
+              d="M -141.080780,-79.125000 L -39.269913,53.937500" class="5 6"
+              stroke-opacity="1.0" stroke="#00b8f5"/>
+        <path fill="none" stroke-width="10"
+              d="M -39.269913,53.937500 L 149.807434,156.812500" class="6 7"
+              stroke-opacity="1.0" stroke="#00b8f5"/>
+        <path fill="none" stroke-width="10"
+              d="M 149.807434,156.812500 L 343.732910,253.625000" class="7 8"
+              stroke-opacity="1.0" stroke="#00b8f5"/>
+        <path fill="none" stroke-width="10"
+              d="M 343.732910,253.625000 L 464.936310,350.437500" class="8 9"
+              stroke-opacity="1.0" stroke="#00b8f5"/>
+        <path fill="none" stroke-width="10"
+              d="M 464.936310,350.437500 L 484.328857,525.812500" class="9 10"
+              stroke-opacity="1.0" stroke="#00b8f5"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-286.52487"
+                class="1" cy="-490.6875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-364.09506"
+                class="2" cy="-369.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-335.00626"
+                class="3" cy="-242.5625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-276.8286"
+                class="4" cy="-157.8125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-141.08078"
+                class="5" cy="-79.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-39.269913"
+                class="6" cy="53.9375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="149.80743"
+                class="7" cy="156.8125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="343.7329"
+                class="8" cy="253.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="464.9363"
+                class="9" cy="350.4375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="484.32886"
+                class="10" cy="525.8125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-271.52487" y="-491.2461" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Tafourah - Grande Poste
+        </text>
+        <text font-size="24" x="-349.09506" y="-370.18652" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Khelifa Boukhalfa
+        </text>
+        <text font-size="24" x="-320.00626" y="-243.17969" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            1er Mai
+        </text>
+        <text font-size="24" x="-261.8286" y="-158.4209" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            Aïssat Idir
+        </text>
+        <text font-size="24" x="-126.08078" y="-79.759766" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            Hamma
+        </text>
+        <text font-size="24" x="-54.269913" y="53.305664" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            Jardin d&apos;essai
+        </text>
+        <text font-size="24" x="134.80743" y="161.20117" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            Les Fusillés
+        </text>
+        <text font-size="24" x="328.7329" y="258.0664" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            Cité Amirouche
+        </text>
+        <text font-size="24" x="449.9363" y="354.8789" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            Cité Mer et Soleil
+        </text>
+        <text font-size="24" x="469.32886" y="525.2041" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            Haï El Badr
+        </text>
+    </g>
+</svg>

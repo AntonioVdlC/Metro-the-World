@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="800px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-879 -1032 1483 1776" height="1024px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10"
+              d="M 302.787537,-1022.031250 L 239.868423,-902.218750" class="1 2"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 239.868423,-902.218750 L 170.578857,-709.718750" class="2 3"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 170.578857,-709.718750 L 32.383678,-628.437500" class="3 4"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 32.383678,-628.437500 L 55.980530,-494.750000" class="4 5"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 55.980530,-494.750000 L 50.744541,-345.687500" class="5 6"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 50.744541,-345.687500 L 50.360569,-154.687500" class="6 7"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 50.360569,-154.687500 L 56.731022,-43.093750" class="7 8"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 56.731022,-43.093750 L 64.218483,101.843750" class="8 9"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 64.218483,101.843750 L 64.602455,175.625000" class="9 10"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 64.602455,175.625000 L 76.575409,264.375000" class="10 11"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 64.602455,175.625000 L 197.544189,168.500000" class="10 24"
+              stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M 76.575409,264.375000 L 106.158745,362.875000" class="11 12"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 106.158745,362.875000 L 146.615479,489.093750" class="12 13"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 146.615479,489.093750 L 30.882694,584.968750" class="13 14"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M 30.882694,584.968750 L -100.558052,651.250000" class="14 15"
+              stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M -100.558052,651.250000 L -158.607697,734.781250"
+              class="15 16" stroke-opacity="1.0" stroke="#000096"/>
+        <path fill="none" stroke-width="10"
+              d="M -869.043945,222.812500 L -765.319031,207.093750"
+              class="17 18" stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M -765.319031,207.093750 L -635.728333,175.250000"
+              class="18 19" stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M -635.728333,175.250000 L -492.663727,172.250000"
+              class="19 20" stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M -492.663727,172.250000 L -394.541321,133.312500"
+              class="20 21" stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M -394.541321,133.312500 L -223.394318,153.906250"
+              class="21 22" stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M -223.394318,153.906250 L -40.274380,164.406250" class="22 23"
+              stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M -40.274380,164.406250 L 64.602455,175.625000" class="23 10"
+              stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M 197.544189,168.500000 L 230.879974,63.656250" class="24 25"
+              stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M 230.879974,63.656250 L 331.986908,-35.218750" class="25 26"
+              stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M 331.986908,-35.218750 L 384.050079,-86.531250" class="26 27"
+              stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M 384.050079,-86.531250 L 493.028442,-160.687500" class="27 28"
+              stroke-opacity="1.0" stroke="#dc0000"/>
+        <path fill="none" stroke-width="10"
+              d="M 493.028442,-160.687500 L 594.152832,-244.562500"
+              class="28 29" stroke-opacity="1.0" stroke="#dc0000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="302.78754"
+                class="1" cy="-1022.03125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="239.86842"
+                class="2" cy="-902.21875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="170.57886"
+                class="3" cy="-709.71875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="32.38368"
+                class="4" cy="-628.4375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="55.98053"
+                class="5" cy="-494.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="50.74454"
+                class="6" cy="-345.6875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="50.36057"
+                class="7" cy="-154.6875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="56.73102"
+                class="8" cy="-43.09375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="64.21848"
+                class="9" cy="101.84375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="64.602455"
+                class="10" cy="175.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="76.57541"
+                class="11" cy="264.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="106.158745"
+                class="12" cy="362.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="146.61548"
+                class="13" cy="489.09375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="30.882694"
+                class="14" cy="584.96875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-100.55805"
+                class="15" cy="651.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-158.6077"
+                class="16" cy="734.78125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-869.04395"
+                class="17" cy="222.8125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-765.31903"
+                class="18" cy="207.09375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-635.72833"
+                class="19" cy="175.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-492.66373"
+                class="20" cy="172.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-394.54132"
+                class="21" cy="133.3125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-223.39432"
+                class="22" cy="153.90625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-40.27438"
+                class="23" cy="164.40625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="197.54419"
+                class="24" cy="168.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="230.87997"
+                class="25" cy="63.65625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="331.9869"
+                class="26" cy="-35.21875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="384.05008"
+                class="27" cy="-86.53125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="493.02844"
+                class="28" cy="-160.6875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="594.15283"
+                class="29" cy="-244.5625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="287.78754" y="-1021.4502" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Mamá Tingo
+        </text>
+        <text font-size="24" x="224.86842" y="-901.5879" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Gregorio Urbano Gilbert
+        </text>
+        <text font-size="24" x="155.57886" y="-714.0879" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            Gregorio Luperón
+        </text>
+        <text font-size="24" x="17.38368" y="-628.9961" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            José Francisco Peña Gómez
+        </text>
+        <text font-size="24" x="40.98053" y="-495.38477" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            Hermanas Mirabal
+        </text>
+        <text font-size="24" x="35.74454" y="-346.2461" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            Máximo Gómez
+        </text>
+        <text font-size="24" x="35.36057" y="-155.29883" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            Los Taínos
+        </text>
+        <text font-size="24" x="41.73102" y="-43.652344" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            Pedro Livio Cedeño
+        </text>
+        <text font-size="24" x="49.21848" y="101.208984" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            Manuel Arturo Peña Batlle
+        </text>
+        <text font-size="24" x="79.602455" y="190.99316" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            Juan Pablo Duarte
+        </text>
+        <text font-size="24" x="61.57541" y="263.8164" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="11">
+            Profesor Juan Bosch
+        </text>
+        <text font-size="24" x="91.158745" y="362.3164" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="12">
+            Casandra Damirón
+        </text>
+        <text font-size="24" x="131.61548" y="485.6748" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="13">
+            Joaquín Balaguer
+        </text>
+        <text font-size="24" x="15.882694" y="577.3574" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="14">
+            Amín Abel Hasbún
+        </text>
+        <text font-size="24" x="-115.55805" y="650.6914" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="15">
+            Francisco Alberto Caamaño Deñó
+        </text>
+        <text font-size="24" x="-173.6077" y="734.22266" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="16">
+            Centro de los Héroes
+        </text>
+        <text font-size="24" x="-869.04395" y="252.20117" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="17">
+            María Montez
+        </text>
+        <text font-size="24" x="-765.31903" y="232.48242" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="18">
+            Pedro Francisco Bonó
+        </text>
+        <text font-size="24" x="-650.72833" y="197.88086" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="19">
+            Francisco Gregorio Billini
+        </text>
+        <text font-size="24" x="-492.66373" y="150.7373" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="20">
+            Ulises Francisco Espaillat‎
+        </text>
+        <text font-size="24" x="-389.54132" y="107.67773" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="21">
+            Pedro Mir
+        </text>
+        <text font-size="24" x="-223.39432" y="174.53711" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="22">
+            Freddy Beras Goico
+        </text>
+        <text font-size="24" x="-40.27438" y="193.84766" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="23">
+            Juan Ulises García Saleta
+        </text>
+        <text font-size="24" x="212.54419" y="139.13086" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="24">
+            Coronel Rafael Tomás
+        </text>
+        <text font-size="24" x="212.54419" y="159.13086" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="24">
+            Fernández Domínguez
+        </text>
+        <text font-size="24" x="245.87997" y="63.04492" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="25">
+            Mauricio Báez
+        </text>
+        <text font-size="24" x="346.9869" y="-35.777344" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="26">
+            Ramón Cáceres
+        </text>
+        <text font-size="24" x="399.05008" y="-86.02051" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="27">
+            Horacio Vásquez
+        </text>
+        <text font-size="24" x="478.02844" y="-161.2461" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="28">
+            Manuel de Jesús Galván
+        </text>
+        <text font-size="24" x="579.15283" y="-245.19727" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="29">
+            Eduardo Brito
+        </text>
+    </g>
+</svg>

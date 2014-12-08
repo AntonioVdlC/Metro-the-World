@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1000px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-4015 -3678 8680 7751" height="900px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10"
+              d="M 85.887657,1742.125000 L 3.508113,1459.000000" class="1 2"
+              stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 3.508113,1459.000000 L -62.395519,1077.000000" class="2 3"
+              stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M -62.395519,1077.000000 L -192.736710,650.125000" class="3 4"
+              stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M -192.736710,650.125000 L -234.694427,346.000000" class="4 5"
+              stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M -234.694427,346.000000 L -122.330124,-63.000000" class="5 6"
+              stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M -234.694427,346.000000 L -499.705231,259.125000" class="5 20"
+              stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -234.694427,346.000000 L 123.342422,242.625000" class="5 68"
+              stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -122.330124,-63.000000 L 69.411751,-221.750000" class="6 7"
+              stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M -122.330124,-63.000000 L 150.325211,1.500000" class="6 47"
+              stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 69.411751,-221.750000 L 349.537079,-416.500000" class="7 8"
+              stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 69.411751,-221.750000 L -143.937302,-507.875000" class="7 24"
+              stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M 349.537079,-416.500000 L 598.211609,-611.250000" class="8 9"
+              stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 598.211609,-611.250000 L 912.824646,-859.875000" class="9 10"
+              stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 598.211609,-611.250000 L 1041.769653,-535.625000"
+              class="9 26" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 912.824646,-859.875000 L 1209.425903,-1113.125000"
+              class="10 11" stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 1209.425903,-1113.125000 L 1407.171753,-1291.375000"
+              class="11 12" stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 1407.171753,-1291.375000 L 1708.276001,-1588.000000"
+              class="12 13" stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 1708.276001,-1588.000000 L 2028.823120,-1893.500000"
+              class="13 14" stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 2028.823120,-1893.500000 L 2371.885010,-2268.000000"
+              class="14 15" stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 2371.885010,-2268.000000 L 2566.628906,-2593.125000"
+              class="15 16" stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 2566.628906,-2593.125000 L 2652.010498,-2921.250000"
+              class="16 17" stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 2652.010498,-2921.250000 L 2533.677002,-3309.250000"
+              class="17 18" stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M 2533.677002,-3309.250000 L 2649.008545,-3668.750000"
+              class="18 19" stroke-opacity="1.0" stroke="#fa1919"/>
+        <path fill="none" stroke-width="10"
+              d="M -499.705231,259.125000 L -607.566589,128.000000"
+              class="20 21" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -607.566589,128.000000 L -710.924988,-144.625000"
+              class="21 22" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -607.566589,128.000000 L -359.031677,-99.000000"
+              class="21 46" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -710.924988,-144.625000 L -436.803558,-387.250000"
+              class="22 23" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -436.803558,-387.250000 L -143.937302,-507.875000"
+              class="23 24" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -143.937302,-507.875000 L 194.621658,-612.750000"
+              class="24 25" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -143.937302,-507.875000 L -287.124115,-731.125000"
+              class="24 69" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M 194.621658,-612.750000 L 598.211609,-611.250000" class="25 9"
+              stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 1041.769653,-535.625000 L 1329.364990,-370.125000"
+              class="26 27" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 1329.364990,-370.125000 L 1549.590576,-194.750000"
+              class="27 28" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 1549.590576,-194.750000 L 1948.817261,50.875000"
+              class="28 29" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 1948.817261,50.875000 L 2249.048828,-242.750000"
+              class="29 30" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 2249.048828,-242.750000 L 2583.104736,-639.750000"
+              class="30 31" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 2583.104736,-639.750000 L 2860.228271,-699.625000"
+              class="31 32" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 2860.228271,-699.625000 L 3183.812256,-624.750000"
+              class="32 33" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 3183.812256,-624.750000 L 3466.939453,-780.500000"
+              class="33 34" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 3466.939453,-780.500000 L 3835.064453,-1357.000000"
+              class="34 35" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 3835.064453,-1357.000000 L 4496.369629,-1416.625000"
+              class="35 36" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M 4496.369629,-1416.625000 L 4654.984863,-865.875000"
+              class="36 37" stroke-opacity="1.0" stroke="#7d00c8"/>
+        <path fill="none" stroke-width="10"
+              d="M -2240.531494,-247.250000 L -2352.895752,193.250000"
+              class="38 39" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -2352.895752,193.250000 L -2221.053711,428.375000"
+              class="39 40" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -2221.053711,428.375000 L -1952.936157,482.250000"
+              class="40 41" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -1952.936157,482.250000 L -1633.854980,488.375000"
+              class="41 42" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -1633.854980,488.375000 L -1277.319214,572.250000"
+              class="42 43" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -1277.319214,572.250000 L -1043.619629,545.250000"
+              class="43 44" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -1277.319214,572.250000 L -1340.220825,870.250000"
+              class="43 85" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1043.619629,545.250000 L -877.324646,467.375000"
+              class="44 45" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -877.324646,467.375000 L -607.566589,128.000000"
+              class="45 21" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -359.031677,-99.000000 L -122.330124,-63.000000" class="46 6"
+              stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 150.325211,1.500000 L 321.088226,71.875000" class="47 48"
+              stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 321.088226,71.875000 L 69.411751,-221.750000" class="48 7"
+              stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M 321.088226,71.875000 L 533.808960,265.125000" class="48 49"
+              stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 533.808960,265.125000 L 884.340881,549.750000" class="49 50"
+              stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 884.340881,549.750000 L 1118.040527,704.000000" class="50 51"
+              stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 1118.040527,704.000000 L 1372.718994,868.750000"
+              class="51 52" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 1372.718994,868.750000 L 1461.102417,1162.375000"
+              class="52 53" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 1461.102417,1162.375000 L 1245.379761,1457.500000"
+              class="53 54" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 1245.379761,1457.500000 L 1362.212036,1677.750000"
+              class="54 55" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M 1362.212036,1677.750000 L 1556.955933,1935.375000"
+              class="55 56" stroke-opacity="1.0" stroke="#ff8205"/>
+        <path fill="none" stroke-width="10"
+              d="M -4005.094238,550.500000 L -3503.277100,815.625000"
+              class="57 58" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -3503.277100,815.625000 L -3112.393311,861.375000"
+              class="58 59" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -3112.393311,861.375000 L -2817.292969,939.250000"
+              class="59 60" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -2817.292969,939.250000 L -2505.681885,1033.625000"
+              class="60 61" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -2505.681885,1033.625000 L -1955.903198,1135.500000"
+              class="61 62" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -1955.903198,1135.500000 L -1638.323120,1253.750000"
+              class="62 63" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -1638.323120,1253.750000 L -1404.623413,1184.875000"
+              class="63 64" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -1404.623413,1184.875000 L -1149.979980,987.125000"
+              class="64 65" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -1404.623413,1184.875000 L -1555.943481,1385.625000"
+              class="64 86" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1149.979980,987.125000 L -739.513489,775.875000"
+              class="65 66" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -739.513489,775.875000 L -583.725403,554.250000"
+              class="66 67" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -583.725403,554.250000 L -234.694427,346.000000" class="67 5"
+              stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M 123.342422,242.625000 L 321.088226,71.875000" class="68 48"
+              stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -287.124115,-731.125000 L -387.480560,-1026.125000"
+              class="69 70" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -387.480560,-1026.125000 L -601.702271,-1495.125000"
+              class="70 71" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -601.702271,-1495.125000 L -336.551849,-2178.250000"
+              class="71 72" stroke-opacity="1.0" stroke="#329632"/>
+        <path fill="none" stroke-width="10"
+              d="M -601.702271,-1495.125000 L -823.393982,-1240.375000"
+              class="71 78" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M 866.363953,-2576.625000 L 676.123108,-2058.375000"
+              class="73 74" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M 676.123108,-2058.375000 L 316.585266,-1791.625000"
+              class="74 75" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M 316.585266,-1791.625000 L 157.795212,-1552.000000"
+              class="75 76" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M 157.795212,-1552.000000 L -218.218521,-1448.625000"
+              class="76 77" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -218.218521,-1448.625000 L -601.702271,-1495.125000"
+              class="77 71" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -823.393982,-1240.375000 L -919.282349,-945.375000"
+              class="78 79" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -919.282349,-945.375000 L -1112.525146,-719.125000"
+              class="79 80" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1112.525146,-719.125000 L -1181.430786,-488.375000"
+              class="80 81" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1181.430786,-488.375000 L -1277.319214,-211.250000"
+              class="81 82" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1277.319214,-211.250000 L -1316.239990,-10.500000"
+              class="82 83" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1316.239990,-10.500000 L -1335.717896,265.125000"
+              class="83 84" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1335.717896,265.125000 L -1277.319214,572.250000"
+              class="84 43" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1340.220825,870.250000 L -1404.623413,1184.875000"
+              class="85 64" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1555.943481,1385.625000 L -1543.970581,1739.125000"
+              class="86 87" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1543.970581,1739.125000 L -1668.307861,2229.000000"
+              class="87 88" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1668.307861,2229.000000 L -1794.111206,2417.750000"
+              class="88 89" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -1794.111206,2417.750000 L -2051.791504,2985.500000"
+              class="89 90" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -2051.791504,2985.500000 L -2053.292480,3427.375000"
+              class="90 91" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -2053.292480,3427.375000 L -2180.631836,3716.500000"
+              class="91 92" stroke-opacity="1.0" stroke="#7d4b00"/>
+        <path fill="none" stroke-width="10"
+              d="M -2180.631836,3716.500000 L -2315.440918,4062.625000"
+              class="92 93" stroke-opacity="1.0" stroke="#7d4b00"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="85.88766"
+                class="1" cy="1742.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="3.5081131"
+                class="2" cy="1459.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-62.39552"
+                class="3" cy="1077.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-192.73671"
+                class="4" cy="650.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-234.69443"
+                class="5" cy="346.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-122.330124"
+                class="6" cy="-63.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="69.41175"
+                class="7" cy="-221.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="349.53708"
+                class="8" cy="-416.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="598.2116"
+                class="9" cy="-611.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="912.82465"
+                class="10" cy="-859.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1209.4259"
+                class="11" cy="-1113.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1407.1718"
+                class="12" cy="-1291.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1708.276"
+                class="13" cy="-1588.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2028.8231"
+                class="14" cy="-1893.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2371.885"
+                class="15" cy="-2268.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2566.629"
+                class="16" cy="-2593.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2652.0105"
+                class="17" cy="-2921.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2533.677"
+                class="18" cy="-3309.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2649.0085"
+                class="19" cy="-3668.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-499.70523"
+                class="20" cy="259.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-607.5666"
+                class="21" cy="128.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-710.925"
+                class="22" cy="-144.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-436.80356"
+                class="23" cy="-387.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-143.9373"
+                class="24" cy="-507.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="194.62166"
+                class="25" cy="-612.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1041.7697"
+                class="26" cy="-535.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1329.365"
+                class="27" cy="-370.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1549.5906"
+                class="28" cy="-194.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1948.8173"
+                class="29" cy="50.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2249.0488"
+                class="30" cy="-242.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2583.1047"
+                class="31" cy="-639.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="2860.2283"
+                class="32" cy="-699.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="3183.8123"
+                class="33" cy="-624.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="3466.9395"
+                class="34" cy="-780.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="3835.0645"
+                class="35" cy="-1357.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="4496.3696"
+                class="36" cy="-1416.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="4654.985"
+                class="37" cy="-865.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2240.5315"
+                class="38" cy="-247.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2352.8958"
+                class="39" cy="193.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2221.0537"
+                class="40" cy="428.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1952.9362"
+                class="41" cy="482.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1633.855"
+                class="42" cy="488.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1277.3192"
+                class="43" cy="572.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1043.6196"
+                class="44" cy="545.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-877.32465"
+                class="45" cy="467.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-359.03168"
+                class="46" cy="-99.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="150.32521"
+                class="47" cy="1.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="321.08823"
+                class="48" cy="71.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="533.80896"
+                class="49" cy="265.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="884.3409"
+                class="50" cy="549.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1118.0405"
+                class="51" cy="704.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1372.719"
+                class="52" cy="868.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1461.1024"
+                class="53" cy="1162.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1245.3798"
+                class="54" cy="1457.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1362.212"
+                class="55" cy="1677.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="1556.9559"
+                class="56" cy="1935.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-4005.0942"
+                class="57" cy="550.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-3503.277"
+                class="58" cy="815.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-3112.3933"
+                class="59" cy="861.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2817.293"
+                class="60" cy="939.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2505.682"
+                class="61" cy="1033.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1955.9032"
+                class="62" cy="1135.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1638.3231"
+                class="63" cy="1253.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1404.6234"
+                class="64" cy="1184.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1149.98"
+                class="65" cy="987.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-739.5135"
+                class="66" cy="775.875" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-583.7254"
+                class="67" cy="554.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="123.34242"
+                class="68" cy="242.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-287.1241"
+                class="69" cy="-731.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-387.48056"
+                class="70" cy="-1026.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-601.7023"
+                class="71" cy="-1495.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-336.55185"
+                class="72" cy="-2178.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="866.36395"
+                class="73" cy="-2576.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="676.1231"
+                class="74" cy="-2058.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="316.58527"
+                class="75" cy="-1791.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="157.79521"
+                class="76" cy="-1552.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-218.21852"
+                class="77" cy="-1448.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-823.394"
+                class="78" cy="-1240.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-919.28235"
+                class="79" cy="-945.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1112.5251"
+                class="80" cy="-719.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1181.4308"
+                class="81" cy="-488.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1277.3192"
+                class="82" cy="-211.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1316.24"
+                class="83" cy="-10.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1335.7179"
+                class="84" cy="265.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1340.2208"
+                class="85" cy="870.25" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1555.9435"
+                class="86" cy="1385.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1543.9706"
+                class="87" cy="1739.125" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1668.3079"
+                class="88" cy="2229.0" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-1794.1112"
+                class="89" cy="2417.75" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2051.7915"
+                class="90" cy="2985.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2053.2925"
+                class="91" cy="3427.375" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2180.6318"
+                class="92" cy="3716.5" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffff" r="10.0" cx="-2315.441"
+                class="93" cy="4062.625" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="104" x="85.88766" y="1765.9033" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="1">
+            Reumannplatz
+        </text>
+        <text font-size="104" x="3.5081131" y="1482.7783" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="2">
+            Keplerplatz
+        </text>
+        <text font-size="104" x="-62.39552" y="1101.0957" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="3">
+            Südtiroler Platz-Hauptbahnhof
+        </text>
+        <text font-size="104" x="-192.73671" y="674.208" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="4">
+            Taubstummengasse
+        </text>
+        <text font-size="104" x="-234.69443" y="369.77832" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="5">
+            Karlsplatz
+        </text>
+        <text font-size="104" x="-122.330124" y="-38.904297" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="6">
+            Stephansplatz
+        </text>
+        <text font-size="104" x="69.41175" y="-197.6543" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="7">
+            Schwedenplatz
+        </text>
+        <text font-size="104" x="349.53708" y="-392.417" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="8">
+            Nestroyplatz
+        </text>
+        <text font-size="104" x="598.2116" y="-622.334" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="9">
+            Praterstern
+        </text>
+        <text font-size="104" x="912.82465" y="-835.4746" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="10">
+            Vorgartenstraße
+        </text>
+        <text font-size="104" x="1209.4259" y="-1094.209" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="11">
+            Donauinsel
+        </text>
+        <text font-size="104" x="1407.1718" y="-1272.3447" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="12">
+            Kaisermühlen
+        </text>
+        <text font-size="104" x="1708.276" y="-1569.084" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="13">
+            Alte Donau
+        </text>
+        <text font-size="104" x="2028.8231" y="-1869.417" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="14">
+            Kagran
+        </text>
+        <text font-size="104" x="2371.885" y="-2243.917" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="15">
+            Kagraner Platz
+        </text>
+        <text font-size="104" x="2566.629" y="-2569.042" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="16">
+            Rennbahnweg
+        </text>
+        <text font-size="104" x="2652.0105" y="-2902.004" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="17">
+            Aderklaaer Straße
+        </text>
+        <text font-size="104" x="2533.677" y="-3284.8496" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="18">
+            Großfeldsiedlung
+        </text>
+        <text font-size="104" x="2649.0085" y="-3644.9717" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="19">
+            Leopoldau
+        </text>
+        <text font-size="104" x="-499.70523" y="282.90332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="20">
+            Museumsquartier
+        </text>
+        <text font-size="104" x="-607.5666" y="146.91602" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="21">
+            Volkstheater
+        </text>
+        <text font-size="104" x="-710.925" y="-125.708984" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="22">
+            Rathaus
+        </text>
+        <text font-size="104" x="-436.80356" y="-368.0039" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="23">
+            Schottentor
+        </text>
+        <text font-size="104" x="-143.9373" y="-483.4746" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="24">
+            Schottenring
+        </text>
+        <text font-size="104" x="194.62166" y="-593.5039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="25">
+            Taborstraße
+        </text>
+        <text font-size="104" x="1041.7697" y="-516.709" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="26">
+            Messe-Prater
+        </text>
+        <text font-size="104" x="1329.365" y="-351.20898" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="27">
+            Krieau
+        </text>
+        <text font-size="104" x="1549.5906" y="-175.5039" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="28">
+            Stadion
+        </text>
+        <text font-size="104" x="1948.8173" y="69.791016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="29">
+            Donaumarina
+        </text>
+        <text font-size="104" x="2249.0488" y="-223.71973" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="30">
+            Donaustadtbrücke
+        </text>
+        <text font-size="104" x="2583.1047" y="-620.5039" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="31">
+            Stadlau
+        </text>
+        <text font-size="104" x="2860.2283" y="-725.542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="32">
+            Hardeggasse
+        </text>
+        <text font-size="104" x="3183.8123" y="-600.9717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="33">
+            Donauspital
+        </text>
+        <text font-size="104" x="3466.9395" y="-756.4043" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="34">
+            Aspernstraße
+        </text>
+        <text font-size="104" x="3835.0645" y="-1337.7539" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="35">
+            Hausfeldstraße
+        </text>
+        <text font-size="104" x="4496.3696" y="-1442.8467" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="36">
+            Aspern Nord
+        </text>
+        <text font-size="104" x="4654.985" y="-846.6289" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="37">
+            Seestadt
+        </text>
+        <text font-size="104" x="-2240.5315" y="-222.83691" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="38">
+            Ottakring
+        </text>
+        <text font-size="104" x="-2352.8958" y="212.4961" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="39">
+            Kendlerstraße
+        </text>
+        <text font-size="104" x="-2221.0537" y="407.6211" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="40">
+            Hütteldorfer Straße
+        </text>
+        <text font-size="104" x="-1952.9362" y="501.4961" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="41">
+            Johnstraße
+        </text>
+        <text font-size="104" x="-1633.855" y="442.7754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="42">
+            Schweglerstraße
+        </text>
+        <text font-size="104" x="-1277.3192" y="621.4834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="43">
+            Westbahnhof
+        </text>
+        <text font-size="104" x="-1043.6196" y="469.333" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="44">
+            Zieglergasse
+        </text>
+        <text font-size="104" x="-877.32465" y="371.458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="45">
+            Neubaugasse
+        </text>
+        <text font-size="104" x="-359.03168" y="-154.91699" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="46">
+            Herrengasse
+        </text>
+        <text font-size="104" x="150.32521" y="20.746094" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="47">
+            Stubentor
+        </text>
+        <text font-size="104" x="321.08823" y="91.12109" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="48">
+            Landstraße
+        </text>
+        <text font-size="104" x="563.80896" y="309.208" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="49">
+            Rochusgasse
+        </text>
+        <text font-size="104" x="884.3409" y="573.833" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="50">
+            Kardinal-Nagl-Platz
+        </text>
+        <text font-size="104" x="1118.0405" y="728.4004" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="51">
+            Schlachthausgasse
+        </text>
+        <text font-size="104" x="1372.719" y="892.833" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="52">
+            Erdberg
+        </text>
+        <text font-size="104" x="1461.1024" y="1181.6211" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="53">
+            Gasometer
+        </text>
+        <text font-size="104" x="1245.3798" y="1481.5957" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="54">
+            Zippererstraße
+        </text>
+        <text font-size="104" x="1362.212" y="1701.5283" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="55">
+            Enkplatz
+        </text>
+        <text font-size="104" x="1556.9559" y="1959.7754" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="56">
+            Simmering
+        </text>
+        <text font-size="104" x="-4005.0942" y="569.7334" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="57">
+            Hütteldorf
+        </text>
+        <text font-size="104" x="-3503.277" y="804.8838" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="58">
+            Ober St. Veit
+        </text>
+        <text font-size="104" x="-3112.3933" y="880.6211" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="59">
+            Unter St. Veit
+        </text>
+        <text font-size="104" x="-2817.293" y="963.333" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="60">
+            Braunschweiggasse
+        </text>
+        <text font-size="104" x="-2505.682" y="1057.708" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="61">
+            Hietzing
+        </text>
+        <text font-size="104" x="-1955.9032" y="1154.7461" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="62">
+            Schönbrunn
+        </text>
+        <text font-size="104" x="-1638.3231" y="1278.1504" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="63">
+            Meidling Hauptstraße
+        </text>
+        <text font-size="104" x="-1404.6234" y="1209.2754" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="64">
+            Längenfeldgasse
+        </text>
+        <text font-size="104" x="-1149.98" y="1011.32227" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="65">
+            Margaretengürtel
+        </text>
+        <text font-size="104" x="-739.5135" y="799.958" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="66">
+            Pilgramgasse
+        </text>
+        <text font-size="104" x="-583.7254" y="578.44727" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="67">
+            Kettenbrückengasse
+        </text>
+        <text font-size="104" x="123.34242" y="266.7207" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="68">
+            Stadtpark
+        </text>
+        <text font-size="104" x="-287.1241" y="-711.8789" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="69">
+            Roßauer Lände
+        </text>
+        <text font-size="104" x="-387.48056" y="-1007.0947" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="70">
+            Friedensbrücke
+        </text>
+        <text font-size="104" x="-601.7023" y="-1471.0293" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="71">
+            Spittelau
+        </text>
+        <text font-size="104" x="-336.55185" y="-2154.167" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="72">
+            Heiligenstadt
+        </text>
+        <text font-size="104" x="866.36395" y="-2557.3916" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="73">
+            Floridsdorf
+        </text>
+        <text font-size="104" x="676.1231" y="-2039.459" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="74">
+            Neue Donau
+        </text>
+        <text font-size="104" x="316.58527" y="-1772.709" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="75">
+            Handelskai
+        </text>
+        <text font-size="104" x="157.79521" y="-1532.7539" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="76">
+            Dresdner Straße
+        </text>
+        <text font-size="104" x="-218.21852" y="-1424.2246" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="77">
+            Jägerstraße
+        </text>
+        <text font-size="104" x="-823.394" y="-1221.1289" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="78">
+            Nußdorfer Straße
+        </text>
+        <text font-size="104" x="-919.28235" y="-920.9746" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="79">
+            Währinger Straße-Volksoper
+        </text>
+        <text font-size="104" x="-1112.5251" y="-700.209" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="80">
+            Michelbeuern-AKH
+        </text>
+        <text font-size="104" x="-1181.4308" y="-469.1289" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="81">
+            Alser Straße
+        </text>
+        <text font-size="104" x="-1277.3192" y="-192.0039" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="82">
+            Josefstädter Straße
+        </text>
+        <text font-size="104" x="-1316.24" y="8.746094" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="83">
+            Thaliastraße
+        </text>
+        <text font-size="104" x="-1335.7179" y="289.5254" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="84">
+            Burggasse-Stadthalle
+        </text>
+        <text font-size="104" x="-1340.2208" y="894.3457" fill="#000000"
+              style="text-anchor: end; dominant-baseline: central;"
+              font-family="Arial" class="85">
+            Gumpendorfer Straße
+        </text>
+        <text font-size="104" x="-1555.9435" y="1404.8711" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="86">
+            Niederhofstraße
+        </text>
+        <text font-size="104" x="-1543.9706" y="1763.0176" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="87">
+            Philadelphiabrücke
+        </text>
+        <text font-size="104" x="-1668.3079" y="2253.083" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="88">
+            Tscherttegasse
+        </text>
+        <text font-size="104" x="-1794.1112" y="2441.8457" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="89">
+            Am Schöpfwerk
+        </text>
+        <text font-size="104" x="-2051.7915" y="3004.416" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="90">
+            Alterlaa
+        </text>
+        <text font-size="104" x="-2053.2925" y="3446.621" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="91">
+            Erlaaer Straße
+        </text>
+        <text font-size="104" x="-2180.6318" y="3735.746" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="92">
+            Perfektastraße
+        </text>
+        <text font-size="104" x="-2315.441" y="4051.871" fill="#000000"
+              style="text-anchor: start; dominant-baseline: central;"
+              font-family="Arial" class="93">
+            Siebenhirten
+        </text>
+    </g>
+</svg>

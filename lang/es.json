@@ -1,0 +1,788 @@
+{
+	"search": "Buscar ...",
+	"data": [
+		{
+			"name": "Algeria",
+			"flag": "alg",
+			"cities": [
+				{
+					"name": "Alger",
+					"metro": "algiers"
+				}
+			]
+		},{
+			"name": "Alemania",
+			"flag": "deu",
+			"cities": [
+				{
+					"name": "Berlin",
+					"metro": "berlin"
+				},{
+					"name": "Hamburgo",
+					"metro": "hambourg"
+				},{
+					"name": "Munich",
+					"metro": "munich"
+				},{
+					"name": "Nuremberg",
+					"metro": "nuremberg"
+				}
+			]
+		},{
+			"name": "Arabia Saudi",
+			"flag": "sau",
+			"cities": [
+				{
+					"name": "La Mecca",
+					"metro": "mecca"
+				}
+			]
+		},{
+			"name": "Argentina",
+			"flag": "arg",
+			"cities": [
+				{
+					"name": "Buenos Aires",
+					"metro": "buenos-aires"
+				}
+			]
+		},{
+			"name": "Armenia",
+			"flag": "arm",
+			"cities": [
+				{
+					"name": "Erevan",
+					"metro": "yerevan"
+				}
+			]
+		},{
+			"name": "Austria",
+			"flag": "aut",
+			"cities": [
+				{
+					"name": "Viena",
+					"metro": "vienna"
+				}
+			]
+		},{
+			"name": "Azerbaidjan",
+			"flag": "aze",
+			"cities": [
+				{
+					"name": "Baku",
+					"metro": "baku"
+				}
+			]
+		},{
+			"name": "Belgica",
+			"flag": "bel",
+			"cities": [
+				{
+					"name": "Bruselas",
+					"metro": "brussels"
+				}
+			]
+		},{
+			"name": "Bielorusia",
+			"flag": "blr",
+			"cities": [
+				{
+					"name": "Minsk",
+					"metro": "minsk"
+				}
+			]
+		},{
+			"name": "Brasil",
+			"flag": "bra",
+			"cities": [
+				{
+					"name": "Belo Horizonte",
+					"metro": "belo-horizonte"
+				},{
+					"name": "Brasília",
+					"metro": "brasilia"
+				},{
+					"name": "Fortaleza",
+					"metro": "fortaleza"
+				},{
+					"name": "Porto Alegre",
+					"metro": "porto-alegre"
+				},{
+					"name": "Recife",
+					"metro": "recife"
+				},{
+					"name": "Rio de Janeiro",
+					"metro": "rio-de-janeiro"
+				},{
+					"name": "Salvador",
+					"metro": "salvador"
+				},{
+					"name": "São Paulo",
+					"metro": "sao-paulo"
+				}
+			]
+		},{
+			"name": "Bulgaria",
+			"flag": "bgr",
+			"cities": [
+				{
+					"name": "Sofia",
+					"metro": "sofia"
+				}
+			]
+		},{
+			"name": "Canada",
+			"flag": "can",
+			"cities": [
+				{
+					"name": "Montreal",
+					"metro": "montreal"
+				},{
+					"name": "Toronto",
+					"metro": "toronto"
+				},{
+					"name": "Vancouver",
+					"metro": "vancouver"
+				}
+			]
+		},{
+			"name": "Chile",
+			"flag": "chl",
+			"cities": [
+				{
+					"name": "Santiago",
+					"metro": "santiago"
+				}
+			]
+		},{
+			"name": "China",
+			"flag": "chn",
+			"cities": [
+				{
+					"name": "Beijing",
+					"metro": "beijing"
+				},{
+					"name": "Changsha",
+					"metro": "changsha"
+				},{
+					"name": "Chengdu",
+					"metro": "chengdu"
+				},{
+					"name": "Chongqing",
+					"metro": "chongqing"
+				},{
+					"name": "Dalian",
+					"metro": "dalian"
+				},{
+					"name": "Foshan",
+					"metro": "foshan"
+				},{
+					"name": "Guangzhou",
+					"metro": "guangzhou"
+				},{
+					"name": "Harbin",
+					"metro": "harbin"
+				},{
+					"name": "Hangzhou",
+					"metro": "hangzhou"
+				},{
+					"name": "Kunming",
+					"metro": "kunming"
+				},{
+					"name": "Nanjing",
+					"metro": "nanjing"
+				},{
+					"name": "Ningbo",
+					"metro": "ningbo"
+				},{
+					"name": "Shanghai",
+					"metro": "shanghai"
+				},{
+					"name": "Shenyang",
+					"metro": "shenyang"
+				},{
+					"name": "Shenzhen",
+					"metro": "shenzhen"
+				},{
+					"name": "Suzhou",
+					"metro": "suzhou"
+				},{
+					"name": "Tianjin",
+					"metro": "tianjin"
+				},{
+					"name": "Wuhan",
+					"metro": "wuhan"
+				},{
+					"name": "Wuxi",
+					"metro": "wuxi"
+				},{
+					"name": "Xi'an",
+					"metro": "xian"
+				},{
+					"name": "Zhengzhou",
+					"metro": "zhengzhou"
+				}
+			]
+		},{
+			"name": "Colombia",
+			"flag": "col",
+			"cities": [
+				{
+					"name": "Medellín",
+					"metro": "medellin"
+				}
+			]
+		},{
+			"name": "Corea del Norte",
+			"flag": "prk",
+			"cities": [
+				{
+					"name": "Pyongyang",
+					"metro": "pyongyang"
+				}
+			]
+		},{
+			"name": "Corea del Sur",
+			"flag": "kor",
+			"cities": [
+				{
+					"name": "Busan",
+					"metro": "busan"
+				},{
+					"name": "Daegu",
+					"metro": "daegu"
+				},{
+					"name": "Daejeon",
+					"metro": "daejeon"
+				},{
+					"name": "Gwangju",
+					"metro": "gwangju"
+				},{
+					"name": "Incheon",
+					"metro": "incheon"
+				},{
+					"name": "Seul",
+					"metro": "seoul"
+				}
+			]
+		},{
+			"name": "Dinamarca",
+			"flag": "dnk",
+			"cities": [
+				{
+					"name": "Copenhague",
+					"metro": "copenhagen"
+				}
+			]
+		},{
+			"name": "Egypto",
+			"flag": "egy",
+			"cities": [
+				{
+					"name": "El Cairo",
+					"metro": "cairo"
+				}
+			]
+		},{
+			"name": "Emiratos Arabes Unidos",
+			"flag": "are",
+			"cities": [
+				{
+					"name": "Dubai",
+					"metro": "dubai"
+				}
+			]
+		},{
+			"name": "España",
+			"flag": "esp",
+			"cities": [
+				{
+					"name": "Barcelona",
+					"metro": "barcelona"
+				},{
+					"name": "Bilbao",
+					"metro": "bilbao"
+				},{
+					"name": "Madrid",
+					"metro": "madrid"
+				}
+			]
+		},{
+			"name": "Etados Unidos",
+			"flag": "usa",
+			"cities": [
+				{
+					"name": "Atlanta",
+					"metro": "atlanta"
+				},{
+					"name": "Baltimore",
+					"metro": "baltimore"
+				},{
+					"name": "Boston",
+					"metro": "boston"
+				},{
+					"name": "Chicago",
+					"metro": "chicago"
+				},{
+					"name": "Cleveland",
+					"metro": "cleveland"
+				},{
+					"name": "Filadelfia",
+					"metro": "philadelphia"
+				},{
+					"name": "Los Angeles",
+					"metro": "los-angeles"
+				},{
+					"name": "Miami",
+					"metro": "miami"
+				},{
+					"name": "Nueva York",
+					"metro": "new-york"
+				},{
+					"name": "San Francisco",
+					"metro": "san-francisco"
+				},{
+					"name": "Washington, D.C.",
+					"metro": "washington"
+				}
+			]
+		},{
+			"name": "Filipinas",
+			"flag": "phl",
+			"cities": [
+				{
+					"name": "Manila",
+					"metro": "manila"
+				}
+			]
+		},{
+			"name": "Finlandia",
+			"flag": "fin",
+			"cities": [
+				{
+					"name": "Helsinki",
+					"metro": "helsinki"
+				}
+			]
+		},{
+			"name": "Francia",
+			"flag": "fra",
+			"cities": [
+				{
+					"name": "Lille",
+					"metro": "lille"
+				},{
+					"name": "Lyon",
+					"metro": "lyon"
+				},{
+					"name": "Marseilla",
+					"metro": "marseille"
+				},{
+					"name": "Paris",
+					"metro": "paris"
+				},{
+					"name": "Rennes",
+					"metro": "rennes"
+				},{
+					"name": "Toulouse",
+					"metro": "toulouse"
+				}
+			]
+		},{
+			"name": "Georgia",
+			"flag": "geo",
+			"cities": [
+				{
+					"name": "Tbilisi",
+					"metro": "tbilisi"
+				}
+			]
+		},{
+			"name": "Grecia",
+			"flag": "grc",
+			"cities": [
+				{
+					"name": "Athenas",
+					"metro": "athens"
+				}
+			]
+		},{
+			"name": "Hong Kong",
+			"flag": "hkg",
+			"cities": [
+				{
+					"name": "Hong Kong",
+					"metro": "hong-kong"
+				}
+			]
+		},{
+			"name": "Hungria",
+			"flag": "hun",
+			"cities": [
+				{
+					"name": "Budapest",
+					"metro": "budapest"
+				}
+			]
+		},{
+			"name": "India",
+			"flag": "ind",
+			"cities": [
+				{
+					"name": "Bangalore",
+					"metro": "bangalore"
+				},{
+					"name": "Chennai",
+					"metro": "chennai"
+				},{
+					"name": "Delhi",
+					"metro": "delhi"
+				},{
+					"name": "Kolkata",
+					"metro": "kolkata"
+				},{
+					"name": "Mumbai",
+					"metro": "mumbai"
+				}
+			]
+		},{
+			"name": "Iran",
+			"flag": "irn",
+			"cities": [
+				{
+					"name": "Mashhad",
+					"metro": "mashhad"
+				},{
+					"name": "Tehran",
+					"metro": "tehran"
+				}
+			]
+		},{
+			"name": "Italia",
+			"flag": "ita",
+			"cities": [
+				{
+					"name": "Brescia",
+					"metro": "brescia"
+				},{
+					"name": "Ginebra",
+					"metro": "genoa"
+				},{
+					"name": "Milan",
+					"metro": "milan"
+				},{
+					"name": "Napoles",
+					"metro": "naples"
+				},{
+					"name": "Roma",
+					"metro": "rome"
+				},{
+					"name": "Turin",
+					"metro": "turin"
+				}
+			]
+		},{
+			"name": "Japon",
+			"flag": "jpn",
+			"cities": [
+				{
+					"name": "Fukuoka",
+					"metro": "fukuoka"
+				},{
+					"name": "Hiroshima",
+					"metro": "hiroshima"
+				},{
+					"name": "Kobe",
+					"metro": "kobe"
+				},{
+					"name": "Kyoto",
+					"metro": "kyoto"
+				},{
+					"name": "Nagoya",
+					"metro": "nagoya"
+				},{
+					"name": "Osaka",
+					"metro": "osaka"
+				},{
+					"name": "Sapporo",
+					"metro": "sapporo"
+				},{
+					"name": "Sendai",
+					"metro": "sendai"
+				},{
+					"name": "Tokyo",
+					"metro": "tokyo"
+				},{
+					"name": "Yokohama",
+					"metro": "yokohama"
+				}
+			]
+		},{
+			"name": "Kazakhstan",
+			"flag": "kaz",
+			"cities": [
+				{
+					"name": "Almaty",
+					"metro": "almaty"
+				}
+			]
+		},{
+			"name": "Malasia",
+			"flag": "mys",
+			"cities": [
+				{
+					"name": "Kuala Lumpur",
+					"metro": "kuala-lumpur"
+				}
+			]
+		},{
+			"name": "Mexico",
+			"flag": "mex",
+			"cities": [
+				{
+					"name": "Ciudad de Mexico",
+					"metro": "mexico-city"
+				},{
+					"name": "Monterrey",
+					"metro": "monterrey"
+				}
+			]
+		},{
+			"name": "Noruega",
+			"flag": "nor",
+			"cities": [
+				{
+					"name": "Oslo",
+					"metro": "oslo"
+				}
+			]
+		},{
+			"name": "Panama",
+			"flag": "pan",
+			"cities": [
+				{
+					"name": "Panama City",
+					"metro": "panama-city"
+				}
+			]
+		},{
+			"name": "Paises Bajos",
+			"flag": "nld",
+			"cities": [
+				{
+					"name": "Amsterdam",
+					"metro": "amsterdam"
+				},{
+					"name": "Rotterdam",
+					"metro": "rotterdam"
+				}
+			]
+		},{
+			"name": "Peru",
+			"flag": "per",
+			"cities": [
+				{
+					"name": "Lima",
+					"metro": "lima"
+				}
+			]
+		},{
+			"name": "Polonia",
+			"flag": "pol",
+			"cities": [
+				{
+					"name": "Varsovia",
+					"metro": "warsaw"
+				}
+			]
+		},{
+			"name": "Portugal",
+			"flag": "prt",
+			"cities": [
+				{
+					"name": "Lisboa",
+					"metro": "lisbon"
+				}
+			]
+		},{
+			"name": "Puerto Rico",
+			"flag": "pri",
+			"cities": [
+				{
+					"name": "San Juan",
+					"metro": "san-juan"
+				}
+			]
+		},{
+			"name": "Republica Dominicana",
+			"flag": "dom",
+			"cities": [
+				{
+					"name": "Santo Domingo",
+					"metro": "santo-domingo"
+				}
+			]
+		},{
+			"name": "Republica Chequa",
+			"flag": "cze",
+			"cities": [
+				{
+					"name": "Praga",
+					"metro": "prague"
+				}
+			]
+		},{
+			"name": "Rumania",
+			"flag": "rou",
+			"cities": [
+				{
+					"name": "Bucarest",
+					"metro": "bucharest"
+				}
+			]
+		},{
+			"name": "Reino Unido",
+			"flag": "gbr",
+			"cities": [
+				{
+					"name": "Glasgow",
+					"metro": "glasgow"
+				},{
+					"name": "Londres",
+					"metro": "london"
+				}
+			]
+		},{
+			"name": "Rusia",
+			"flag": "rus",
+			"cities": [
+				{
+					"name": "Ekaterinburgo",
+					"metro": "yekaterinburg"
+				},{
+					"name": "Kazan",
+					"metro": "kazan",
+					"metro-logo": "kazan"
+				},{
+					"name": "Moscu",
+					"metro": "moscow"
+				},{
+					"name": "Novossibirsk",
+					"metro": "novosibirsk"
+				},{
+					"name": "Nizhny Novgorod",
+					"metro": "nizhny-ovgorod"
+				},{
+					"name": "San Petersburgo",
+					"metro": "saint-petersburg"
+				},{
+					"name": "Samara",
+					"metro": "samara",
+					"metro-logo": "samara"
+				}
+			]
+		},{
+			"name": "Singapur",
+			"flag": "sgp",
+			"cities": [
+				{
+					"name": "Singapur",
+					"metro": "singapore"
+				}
+			]
+		},{
+			"name": "Suecia",
+			"flag": "swe",
+			"cities": [
+				{
+					"name": "Estocolmo",
+					"metro": "stockholm"
+				}
+			]
+		},{
+			"name": "Suiza",
+			"flag": "che",
+			"cities": [
+				{
+					"name": "Lausanne",
+					"metro": "lausanne"
+				}
+			]
+		},{
+			"name": "Taiwan",
+			"flag": "twn",
+			"cities": [
+				{
+					"name": "Kaohsiung",
+					"metro": "kaohsiung"
+				},{
+					"name": "Taipei",
+					"metro": "taipei"
+				}
+			]
+		},{
+			"name": "Thailandia",
+			"flag": "tha",
+			"cities": [
+				{
+					"name": "Bangkok",
+					"metro": "bangkok"
+				}
+			]
+		},{
+			"name": "Turquia",
+			"flag": "tur",
+			"cities": [
+				{
+					"name": "Adana",
+					"metro": "adana"
+				},{
+					"name": "Ankara",
+					"metro": "ankara"
+				},{
+					"name": "Bursa",
+					"metro": "bursa"
+				},{
+					"name": "Istanbul",
+					"metro": "istanbul"
+				},{
+					"name": "Izmir",
+					"metro": "izmir"
+				}
+			]
+		},{
+			"name": "Ukrania",
+			"flag": "ukr",
+			"cities": [
+				{
+					"name": "Dnipropetrovsk",
+					"metro": "dnipro"
+				},{
+					"name": "Kharkiv",
+					"metro": "kharkiv"
+				},{
+					"name": "Kiev",
+					"metro": "kiev"
+				}
+			]
+		},{
+			"name": "Uzbekistan",
+			"flag": "uzb",
+			"cities": [
+				{
+					"name": "Tashkent",
+					"metro": "tashkent"
+				}
+			]
+		},{
+			"name": "Venezuela",
+			"flag": "ven",
+			"cities": [
+				{
+					"name": "Caracas",
+					"metro": "caracas"
+				}
+			]
+		}
+	]
+}
